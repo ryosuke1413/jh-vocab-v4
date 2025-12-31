@@ -1,0 +1,225 @@
+*{box-sizing:border-box}
+:root{
+  --text:#111111;
+  --muted:#556070;
+  --line:rgba(17,17,17,.12);
+  --panel:#f6f7fb;
+  --panel2:#ffffff;
+  --accentSoft:rgba(58,124,255,.12);
+  --goodSoft:rgba(22,163,74,.12);
+  --badSoft:rgba(225,29,72,.12);
+  --shadow: 0 10px 30px rgba(17,17,17,.08);
+
+  --c-beginner:#16a34a;
+  --c-bronze:#b87333;
+  --c-silver:#9aa4b2;
+  --c-gold:#d4af37;
+  --c-platinum:#ff6fae;
+  --c-diamond:#3a7cff;
+  --c-master:#111111;
+}
+html,body{height:100%}
+body{
+  margin:0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans JP", sans-serif;
+  background: linear-gradient(180deg, #ffffff, #fbfcff);
+  color:var(--text);
+}
+.header{
+  display:flex; gap:12px; align-items:center; justify-content:space-between;
+  padding:14px 14px; border-bottom:1px solid var(--line);
+  position:sticky; top:0; backdrop-filter: blur(10px);
+  background: rgba(255,255,255,.88);
+}
+.brand{display:flex; gap:10px; align-items:center; min-width:0}
+.logo{
+  width:40px;height:40px;border-radius:14px;
+  display:grid;place-items:center;
+  background: linear-gradient(135deg, rgba(58,124,255,.95), rgba(22,163,74,.6));
+  font-weight:900;
+  color:white;
+  font-size:20px;
+}
+.titles h1{margin:0;font-size:16px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.sub{margin:2px 0 0;color:var(--muted);font-size:12px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.status{display:flex; gap:8px; align-items:center; flex-wrap:wrap; justify-content:flex-end}
+.rankBox{
+  border:1px solid var(--line);
+  border-radius:16px;
+  background: white;
+  padding:8px 10px;
+  box-shadow: 0 3px 12px rgba(17,17,17,.04);
+  min-width: 140px;
+}
+.rankTop{display:flex; align-items:baseline; justify-content:space-between; gap:8px}
+.rankLabel{color:var(--muted); font-size:12px}
+.rankValue{font-weight:1000; font-size:16px}
+.classBadge{
+  margin-top:6px;
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  padding:6px 10px;
+  border-radius:12px;
+  font-weight:1000;
+  font-size:12px;
+  color:white;
+  background: var(--c-beginner);
+}
+.classBadge.bronze{background:var(--c-bronze)}
+.classBadge.silver{background:var(--c-silver)}
+.classBadge.gold{background:var(--c-gold); color:#111}
+.classBadge.platinum{background:var(--c-platinum)}
+.classBadge.diamond{background:var(--c-diamond)}
+.classBadge.legend{background:linear-gradient(90deg,#ff3b30,#ffcc00,#34c759,#007aff,#af52de)}
+.classBadge.master{background:var(--c-master)}
+
+.rankMini{
+  border:1px solid var(--line);
+  border-radius:999px;
+  background: white;
+  padding:8px 10px;
+  display:flex; align-items:center; gap:8px;
+  box-shadow: 0 3px 12px rgba(17,17,17,.04);
+  font-weight:900;
+  font-size:12px;
+}
+.rankMiniLabel{color:var(--muted)}
+.rankMiniSep{color:rgba(17,17,17,.25)}
+.pill{
+  display:flex; gap:8px; align-items:center;
+  padding:8px 10px; border:1px solid var(--line);
+  border-radius:999px; background: var(--panel2);
+  box-shadow: 0 3px 12px rgba(17,17,17,.04);
+}
+.pill .label{color:var(--muted);font-size:12px}
+.pill .value{font-weight:900}
+
+.main{max-width:980px;margin:0 auto;padding:14px}
+.card{
+  background: var(--panel);
+  border:1px solid var(--line);
+  border-radius:18px;
+  padding:14px;
+  box-shadow: var(--shadow);
+}
+.hidden{display:none !important}
+h2{margin:0 0 8px 0; font-size:18px}
+.grid{display:grid;grid-template-columns: repeat(3, minmax(0, 1fr));gap:12px;margin-top:10px}
+@media (max-width:860px){ .grid{grid-template-columns:1fr} }
+.field label{display:block;font-size:13px;color:var(--muted);margin-bottom:6px}
+select{
+  width:100%; padding:12px 12px; border-radius:14px;
+  border:1px solid var(--line); background:white; color:var(--text); outline:none;
+}
+.hint{margin:8px 0 0;color:var(--muted);font-size:12px;line-height:1.45}
+.actions{display:flex;gap:10px;justify-content:flex-end;margin-top:12px;flex-wrap:wrap}
+.btn{
+  padding:12px 14px; border-radius:16px; border:1px solid var(--line);
+  background:white; color:var(--text); cursor:pointer; font-weight:1000;
+}
+.btn.primary{border-color: rgba(58,124,255,.35); background: var(--accentSoft)}
+.btn.ghost{background: transparent}
+.note{margin-top:12px;color:var(--muted)}
+.note summary{cursor:pointer; font-weight:1000}
+.note ul{margin:10px 0 0 18px;line-height:1.6}
+
+.classTableWrap{margin-top:12px}
+.classTableTitle{font-weight:1000;color:var(--text);margin-bottom:8px}
+.classTable{
+  width:100%; border-collapse:separate; border-spacing:0;
+  background:white; border:1px solid var(--line); border-radius:14px; overflow:hidden;
+}
+.classTable th,.classTable td{padding:10px 12px;border-bottom:1px solid var(--line);font-size:13px}
+.classTable th{background:rgba(58,124,255,.06);text-align:left}
+.classTable tr:last-child td{border-bottom:none}
+.tblBadge{display:inline-flex;padding:6px 10px;border-radius:12px;font-weight:1000;color:white;font-size:12px}
+.tblBadge.beginner{background:var(--c-beginner)}
+.tblBadge.bronze{background:var(--c-bronze)}
+.tblBadge.silver{background:var(--c-silver)}
+.tblBadge.gold{background:var(--c-gold); color:#111}
+.tblBadge.platinum{background:var(--c-platinum)}
+.tblBadge.diamond{background:var(--c-diamond)}
+.tblBadge.legend{background:linear-gradient(90deg,#ff3b30,#ffcc00,#34c759,#007aff,#af52de)}
+.tblBadge.master{background:var(--c-master)}
+
+.quizTop{display:flex;align-items:center;justify-content:space-between;gap:10px}
+.meta{display:flex;gap:8px;flex-wrap:wrap}
+.metaRight{display:flex;align-items:center;gap:10px;flex-wrap:wrap;justify-content:flex-end}
+.kpi{
+  padding:8px 10px;border:1px solid var(--line);
+  border-radius:16px;background:white;display:flex;gap:8px;align-items:center;
+}
+.kpi .label{color:var(--muted);font-size:12px}
+.kpi .value{font-weight:1000}
+.prompt{margin-top:12px;padding:14px;border:1px dashed rgba(17,17,17,.18);border-radius:18px;background:white}
+.promptMain{font-size:20px;font-weight:1000;line-height:1.25}
+.promptSub{margin-top:6px;color:var(--muted);font-size:13px}
+.mcArea{margin-top:12px;display:grid;grid-template-columns:1fr 1fr;gap:10px}
+@media (max-width:640px){.mcArea{grid-template-columns:1fr}}
+.choice{
+  padding:14px 12px;border:1px solid var(--line);
+  border-radius:18px;background:white;cursor:pointer;text-align:left;font-weight:1000;
+}
+.choice.correct{border-color: rgba(22,163,74,.55); background: var(--goodSoft)}
+.choice.wrong{border-color: rgba(225,29,72,.55); background: var(--badSoft)}
+.typeArea{margin-top:12px;display:flex;gap:10px;flex-wrap:wrap}
+.typeInput{
+  flex:1; min-width:220px;
+  padding:14px 12px;border-radius:18px;border:1px solid var(--line);
+  background:white;color:var(--text);font-size:16px;outline:none;
+}
+.feedback{margin-top:10px;padding:12px;border-radius:18px;border:1px solid var(--line);background:white}
+.feedback.good{border-color: rgba(22,163,74,.55); background: var(--goodSoft)}
+.feedback.bad{border-color: rgba(225,29,72,.55); background: var(--badSoft)}
+.feedback .big{font-weight:1000;font-size:16px}
+.feedback .small{color:var(--muted);margin-top:4px;font-size:12px;line-height:1.5}
+.bottomBar{display:flex;align-items:center;justify-content:space-between;margin-top:12px}
+.score{color:var(--muted)}
+.score b{color:var(--text);font-size:18px}
+.resultGrid{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:12px}
+@media (max-width:760px){.resultGrid{grid-template-columns:1fr}}
+.resultBox{padding:14px;border-radius:18px;border:1px solid var(--line);background:white}
+.big{font-size:22px;font-weight:1000}
+.small{color:var(--muted);margin-top:6px}
+.review{margin-top:14px}
+.reviewList{display:grid;gap:8px;margin-top:8px}
+.revItem{padding:10px 12px;border:1px solid var(--line);border-radius:16px;background:white}
+.revItem b{display:block;margin-bottom:4px}
+.rankResultRow{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.rankPill{border:1px solid var(--line);border-radius:14px;background:rgba(58,124,255,.06);padding:8px 10px}
+.rankPillLabel{color:var(--muted);font-size:12px;margin-right:8px}
+.rankPill b{font-size:16px}
+
+/* Toasts */
+.rankToast{position:fixed;left:50%;top:14px;transform:translateX(-50%);z-index:9999;pointer-events:none}
+.rankToastInner{
+  display:flex;align-items:center;gap:12px;padding:12px 14px;border-radius:20px;
+  border:1px solid rgba(58,124,255,.35);
+  background: linear-gradient(135deg, rgba(58,124,255,.14), rgba(22,163,74,.12));
+  box-shadow: 0 18px 45px rgba(17,17,17,.12);
+  animation: popIn .35s ease-out, floaty 1.8s ease-in-out infinite;
+}
+.rankToastBig{font-weight:1000;font-size:16px}
+.rankToastSmall{color:var(--muted);font-size:12px;margin-top:2px}
+.spark{width:34px;height:34px;border-radius:16px;background:radial-gradient(circle at 30% 30%, rgba(58,124,255,.9), rgba(22,163,74,.65));position:relative;overflow:hidden}
+.spark::before{content:"";position:absolute;inset:-20%;background:conic-gradient(from 0deg, rgba(255,255,255,0), rgba(255,255,255,.7), rgba(255,255,255,0));animation: spin 1.2s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes popIn{from{transform:translateY(-10px) scale(.92);opacity:0}to{transform:translateY(0) scale(1);opacity:1}}
+@keyframes floaty{0%,100%{transform:translateY(0)}50%{transform:translateY(3px)}}
+
+.classToast{position:fixed;left:50%;top:74px;transform:translateX(-50%);z-index:9999;pointer-events:none}
+.classToastInner{
+  display:flex;align-items:center;gap:12px;padding:12px 14px;border-radius:20px;
+  border:1px solid rgba(17,17,17,.12);background:white;box-shadow: 0 18px 45px rgba(17,17,17,.12);
+  animation: popIn .35s ease-out;
+}
+.classToastBig{font-weight:1000}
+.classToastBadge{padding:8px 12px;border-radius:14px;font-weight:1000;color:white;background:var(--c-beginner)}
+.classToastBadge.bronze{background:var(--c-bronze)}
+.classToastBadge.silver{background:var(--c-silver)}
+.classToastBadge.gold{background:var(--c-gold);color:#111}
+.classToastBadge.platinum{background:var(--c-platinum)}
+.classToastBadge.diamond{background:var(--c-diamond)}
+.classToastBadge.legend{background:linear-gradient(90deg,#ff3b30,#ffcc00,#34c759,#007aff,#af52de)}
+.classToastBadge.master{background:var(--c-master)}

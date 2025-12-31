@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>中学英単語攻略</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="brand">
+      <div class="logo" aria-hidden="true">📘</div>
+      <div class="titles">
+        <h1>中学英単語攻略</h1>
+        <p class="sub">4択 / 打ち込み / ミックス</p>
+      </div>
+    </div>
+
+    <div class="status">
+      <div class="rankBox" id="rankBox">
+        <div class="rankTop">
+          <span class="rankLabel">Rank</span>
+          <span id="rankText" class="rankValue">1</span>
+        </div>
+        <div class="classBadge" id="classBadge"><span id="classText">ビギナー</span></div>
+      </div>
+
+      <div class="pill">
+        <span class="label">直近正答率</span>
+        <span id="accText" class="value">--%</span>
+      </div>
+      <button id="resetBtn" class="btn ghost" title="学習履歴を初期化">リセット</button>
+    </div>
+  </header>
+
+  <div id="rankToast" class="rankToast hidden" role="status" aria-live="polite">
+    <div class="rankToastInner">
+      <div class="spark" aria-hidden="true"></div>
+      <div class="rankToastText">
+        <div class="rankToastBig">ランクアップ！</div>
+        <div class="rankToastSmall" id="rankToastSmall">Rank 2</div>
+      </div>
+    </div>
+  </div>
+
+  <div id="classToast" class="classToast hidden" role="status" aria-live="polite">
+    <div class="classToastInner">
+      <div class="classToastBig">クラスアップ！</div>
+      <div class="classToastBadge" id="classToastBadge">ブロンズ</div>
+    </div>
+  </div>
+
+  <main class="main">
+    <section class="card" id="home">
+      <h2>出題を選択</h2>
+
+      <div class="grid">
+        <div class="field">
+          <label>難易度</label>
+          <select id="levelSel">
+            <option value="1">Lv1</option>
+            <option value="2">Lv2</option>
+            <option value="3">Lv3</option>
+          </select>
+          <p class="hint">※ランクに連動しておすすめ難易度を自動提案します</p>
+        </div>
+
+        <div class="field">
+          <label>方向</label>
+          <select id="dirSel">
+            <option value="ja2en">日本語 → 英語</option>
+            <option value="en2ja">英語 → 日本語</option>
+          </select>
+          <p class="hint">4択・打ち込みで使用</p>
+        </div>
+
+        <div class="field">
+          <label>モード</label>
+          <select id="modeSel">
+            <option value="mc10">4択10問</option>
+            <option value="type10">打ち込み10問</option>
+            <option value="mix10">ミックス10問</option>
+          </select>
+          <p class="hint">ミックス：動詞形（形当て）＋系列（日→英）</p>
+        </div>
+      </div>
+
+      <div class="actions">
+        <button id="startBtn" class="btn primary">開始</button>
+      </div>
+
+      <details class="note">
+        <summary>ランク昇降格ルール</summary>
+        <ul>
+          <li>直近 <b>50問</b> の正答率（ローリング）で判定</li>
+          <li><b>昇格</b>：直近正答率 ≥ <b>85%</b> かつ履歴が <b>30問</b> 以上</li>
+          <li><b>降格</b>：直近正答率 &lt; <b>70%</b>（履歴が <b>30問</b> 以上）</li>
+          <li>判定は「10問セット終了時」に行います</li>
+        </ul>
+
+        <div class="classTableWrap">
+          <div class="classTableTitle">クラス一覧</div>
+          <table class="classTable" aria-label="クラス一覧表">
+            <thead><tr><th>クラス</th><th>対応ランク</th></tr></thead>
+            <tbody>
+              <tr><td><span class="tblBadge beginner">ビギナー</span></td><td>1–2</td></tr>
+              <tr><td><span class="tblBadge bronze">ブロンズ</span></td><td>3–6</td></tr>
+              <tr><td><span class="tblBadge silver">シルバー</span></td><td>7–9</td></tr>
+              <tr><td><span class="tblBadge gold">ゴールド</span></td><td>10–12</td></tr>
+              <tr><td><span class="tblBadge platinum">プラチナ</span></td><td>13–14</td></tr>
+              <tr><td><span class="tblBadge diamond">ダイヤモンド</span></td><td>15–19</td></tr>
+              <tr><td><span class="tblBadge legend">レジェンド</span></td><td>???</td></tr>
+              <tr><td><span class="tblBadge master">マスター</span></td><td>???</td></tr>
+            </tbody>
+          </table>
+          <p class="hint">※レジェンド/マスターの条件は「???」として表示します</p>
+        </div>
+      </details>
+    </section>
+
+    <section class="card hidden" id="quiz">
+      <div class="quizTop">
+        <div class="meta">
+          <div class="kpi"><span class="label">モード</span><span id="modeText" class="value">--</span></div>
+          <div class="kpi"><span class="label">難易度</span><span id="levelText" class="value">--</span></div>
+          <div class="kpi"><span class="label">進捗</span><span id="progText" class="value">1 / 10</span></div>
+        </div>
+
+        <div class="metaRight">
+          <div class="rankMini">
+            <span class="rankMiniLabel">Rank</span>
+            <span id="rankMiniValue">1</span>
+            <span class="rankMiniSep">•</span>
+            <span id="classMiniText">ビギナー</span>
+          </div>
+          <button id="quitBtn" class="btn ghost">中断</button>
+        </div>
+      </div>
+
+      <div class="prompt">
+        <div id="promptMain" class="promptMain">--</div>
+        <div id="promptSub" class="promptSub"> </div>
+      </div>
+
+      <div id="mcArea" class="mcArea hidden"></div>
+
+      <form id="typeArea" class="typeArea hidden" autocomplete="off">
+        <input id="typeInput" class="typeInput" type="text"
+               inputmode="latin" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"
+               placeholder="答えを入力して Enter" />
+        <button class="btn primary" type="submit">決定</button>
+      </form>
+
+      <div id="feedback" class="feedback hidden"></div>
+
+      <div class="bottomBar">
+        <div class="score">
+          <span>スコア</span>
+          <b id="scoreText">0</b>
+        </div>
+      </div>
+    </section>
+
+    <section class="card hidden" id="result">
+      <h2>結果</h2>
+
+      <div class="resultGrid">
+        <div class="resultBox">
+          <div class="big" id="resultScore">0 / 10</div>
+          <div class="small" id="resultAcc">正答率 --%</div>
+        </div>
+
+        <div class="resultBox">
+          <div class="rankResultRow">
+            <div class="rankPill">
+              <span class="rankPillLabel">Rank</span>
+              <b id="rankAfterNum">1</b>
+            </div>
+            <div class="classBadge" id="classBadgeResult"><span id="classAfterText">ビギナー</span></div>
+          </div>
+          <div class="small" id="rankNote">--</div>
+        </div>
+      </div>
+
+      <div class="review">
+        <h3>復習</h3>
+        <div id="reviewList" class="reviewList"></div>
+      </div>
+
+      <div class="actions">
+        <button id="backHomeBtn" class="btn">トップへ</button>
+        <button id="retryBtn" class="btn primary">もう一度</button>
+      </div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

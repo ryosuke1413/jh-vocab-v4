@@ -1,0 +1,11172 @@
+[
+  {
+    "en": "zero",
+    "ja": "ゼロ",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "one",
+    "ja": "1",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "two",
+    "ja": "2",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "three",
+    "ja": "3",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "four",
+    "ja": "4",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "five",
+    "ja": "5",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "six",
+    "ja": "6",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "seven",
+    "ja": "7",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "eight",
+    "ja": "8",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "nine",
+    "ja": "9",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "ten",
+    "ja": "10",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "eleven",
+    "ja": "11",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "twelve",
+    "ja": "12",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "thirteen",
+    "ja": "13",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "fourteen",
+    "ja": "14",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "fifteen",
+    "ja": "15",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "sixteen",
+    "ja": "16",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "seventeen",
+    "ja": "17",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "eighteen",
+    "ja": "18",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "nineteen",
+    "ja": "19",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "twenty",
+    "ja": "20",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "thirty",
+    "ja": "30",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "forty",
+    "ja": "40",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "fifty",
+    "ja": "50",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "sixty",
+    "ja": "60",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "seventy",
+    "ja": "70",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "eighty",
+    "ja": "80",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "ninety",
+    "ja": "90",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "hundred",
+    "ja": "100",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "Monday",
+    "ja": "月曜日",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "Tuesday",
+    "ja": "火曜日",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "Wednesday",
+    "ja": "水曜日",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "Thursday",
+    "ja": "木曜日",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "Friday",
+    "ja": "金曜日",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "Saturday",
+    "ja": "土曜日",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "Sunday",
+    "ja": "日曜日",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "January",
+    "ja": "1月",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "February",
+    "ja": "2月",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "March",
+    "ja": "3月",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "April",
+    "ja": "4月",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "May",
+    "ja": "5月",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "may",
+      "past": "mayed",
+      "pp": "mayed"
+    }
+  },
+  {
+    "en": "June",
+    "ja": "6月",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "July",
+    "ja": "7月",
+    "level": 1,
+    "series": "副詞"
+  },
+  {
+    "en": "August",
+    "ja": "8月",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "September",
+    "ja": "9月",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "October",
+    "ja": "10月",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "November",
+    "ja": "11月",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "December",
+    "ja": "12月",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "red",
+    "ja": "赤",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "blue",
+    "ja": "青",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "green",
+    "ja": "緑",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "yellow",
+    "ja": "黄色",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "black",
+    "ja": "黒",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "white",
+    "ja": "白",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "orange",
+    "ja": "オレンジ色",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "pink",
+    "ja": "ピンク",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "brown",
+    "ja": "茶色",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "purple",
+    "ja": "紫",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "gray",
+    "ja": "灰色",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "gold",
+    "ja": "金色",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "silver",
+    "ja": "銀色",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "left",
+    "ja": "左",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "right",
+    "ja": "右",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "up",
+    "ja": "上",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "down",
+    "ja": "下",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "north",
+    "ja": "北",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "south",
+    "ja": "南",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "east",
+    "ja": "東",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "west",
+    "ja": "西",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "spring",
+    "ja": "春",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "summer",
+    "ja": "夏",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "autumn",
+    "ja": "秋",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "fall",
+    "ja": "秋",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "fall",
+      "past": "fell",
+      "pp": "fallen"
+    }
+  },
+  {
+    "en": "winter",
+    "ja": "冬",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "book",
+    "ja": "本",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "pen",
+    "ja": "ペン",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "pencil",
+    "ja": "鉛筆",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "eraser",
+    "ja": "消しゴム",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "notebook",
+    "ja": "ノート",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "desk",
+    "ja": "机",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "chair",
+    "ja": "いす",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "school",
+    "ja": "学校",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "class",
+    "ja": "授業／クラス",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "student",
+    "ja": "生徒",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "teacher",
+    "ja": "先生",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "friend",
+    "ja": "友だち",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "family",
+    "ja": "家族",
+    "level": 1,
+    "series": "副詞"
+  },
+  {
+    "en": "father",
+    "ja": "父",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "mother",
+    "ja": "母",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "brother",
+    "ja": "兄／弟",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "sister",
+    "ja": "姉／妹",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "home",
+    "ja": "家",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "room",
+    "ja": "部屋",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "door",
+    "ja": "ドア",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "window",
+    "ja": "窓",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "bag",
+    "ja": "かばん",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "map",
+    "ja": "地図",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "clock",
+    "ja": "時計",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "watch",
+    "ja": "腕時計",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "watch",
+      "past": "watched",
+      "pp": "watched"
+    }
+  },
+  {
+    "en": "phone",
+    "ja": "電話",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "computer",
+    "ja": "コンピュータ",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "TV",
+    "ja": "テレビ",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "radio",
+    "ja": "ラジオ",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "music",
+    "ja": "音楽",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "sport",
+    "ja": "スポーツ",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "game",
+    "ja": "ゲーム",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "soccer",
+    "ja": "サッカー",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "baseball",
+    "ja": "野球",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "tennis",
+    "ja": "テニス",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "swim",
+    "ja": "泳ぐ",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "swim",
+      "past": "swam",
+      "pp": "swum"
+    }
+  },
+  {
+    "en": "run",
+    "ja": "走る",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "run",
+      "past": "ran",
+      "pp": "run"
+    }
+  },
+  {
+    "en": "walk",
+    "ja": "歩く",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "walk",
+      "past": "walked",
+      "pp": "walked"
+    }
+  },
+  {
+    "en": "eat",
+    "ja": "食べる",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "eat",
+      "past": "ate",
+      "pp": "eaten"
+    }
+  },
+  {
+    "en": "drink",
+    "ja": "飲む",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "drink",
+      "past": "drank",
+      "pp": "drunk"
+    }
+  },
+  {
+    "en": "sleep",
+    "ja": "眠る",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "sleep",
+      "past": "slept",
+      "pp": "slept"
+    }
+  },
+  {
+    "en": "get",
+    "ja": "得る／手に入れる",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "get",
+      "past": "got",
+      "pp": "gotten"
+    }
+  },
+  {
+    "en": "give",
+    "ja": "与える",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "give",
+      "past": "gave",
+      "pp": "given"
+    }
+  },
+  {
+    "en": "take",
+    "ja": "取る／連れて行く",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "take",
+      "past": "took",
+      "pp": "taken"
+    }
+  },
+  {
+    "en": "go",
+    "ja": "行く",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "go",
+      "past": "went",
+      "pp": "gone"
+    }
+  },
+  {
+    "en": "come",
+    "ja": "来る",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "come",
+      "past": "came",
+      "pp": "come"
+    }
+  },
+  {
+    "en": "see",
+    "ja": "見る",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "see",
+      "past": "saw",
+      "pp": "seen"
+    }
+  },
+  {
+    "en": "look",
+    "ja": "見る（意識して）",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "look",
+      "past": "looked",
+      "pp": "looked"
+    }
+  },
+  {
+    "en": "listen",
+    "ja": "聞く",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "listen",
+      "past": "listened",
+      "pp": "listened"
+    }
+  },
+  {
+    "en": "hear",
+    "ja": "聞こえる",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "hear",
+      "past": "heard",
+      "pp": "heard"
+    }
+  },
+  {
+    "en": "speak",
+    "ja": "話す",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "speak",
+      "past": "spoke",
+      "pp": "spoken"
+    }
+  },
+  {
+    "en": "say",
+    "ja": "言う",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "say",
+      "past": "said",
+      "pp": "said"
+    }
+  },
+  {
+    "en": "tell",
+    "ja": "伝える",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "tell",
+      "past": "told",
+      "pp": "told"
+    }
+  },
+  {
+    "en": "read",
+    "ja": "読む",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "read",
+      "past": "read",
+      "pp": "read"
+    }
+  },
+  {
+    "en": "write",
+    "ja": "書く",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "write",
+      "past": "wrote",
+      "pp": "written"
+    }
+  },
+  {
+    "en": "open",
+    "ja": "開ける",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "open",
+      "past": "opened",
+      "pp": "opened"
+    }
+  },
+  {
+    "en": "close",
+    "ja": "閉める",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "close",
+      "past": "closed",
+      "pp": "closed"
+    }
+  },
+  {
+    "en": "make",
+    "ja": "作る",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "make",
+      "past": "made",
+      "pp": "made"
+    }
+  },
+  {
+    "en": "use",
+    "ja": "使う",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "use",
+      "past": "used",
+      "pp": "used"
+    }
+  },
+  {
+    "en": "help",
+    "ja": "助ける",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "help",
+      "past": "helped",
+      "pp": "helped"
+    }
+  },
+  {
+    "en": "study",
+    "ja": "勉強する",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "study",
+      "past": "studied",
+      "pp": "studied"
+    }
+  },
+  {
+    "en": "learn",
+    "ja": "学ぶ",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "learn",
+      "past": "learned",
+      "pp": "learned"
+    }
+  },
+  {
+    "en": "teach",
+    "ja": "教える",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "teach",
+      "past": "taught",
+      "pp": "taught"
+    }
+  },
+  {
+    "en": "play",
+    "ja": "遊ぶ／（スポーツを）する",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "play",
+      "past": "played",
+      "pp": "played"
+    }
+  },
+  {
+    "en": "like",
+    "ja": "好き",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "like",
+      "past": "liked",
+      "pp": "liked"
+    }
+  },
+  {
+    "en": "love",
+    "ja": "大好き",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "love",
+      "past": "loved",
+      "pp": "loved"
+    }
+  },
+  {
+    "en": "want",
+    "ja": "〜したい",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "want",
+      "past": "wanted",
+      "pp": "wanted"
+    }
+  },
+  {
+    "en": "need",
+    "ja": "必要とする",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "need",
+      "past": "needed",
+      "pp": "needed"
+    }
+  },
+  {
+    "en": "good",
+    "ja": "良い",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "bad",
+    "ja": "悪い",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "big",
+    "ja": "大きい",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "small",
+    "ja": "小さい",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "new",
+    "ja": "新しい",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "old",
+    "ja": "古い／年老いた",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "hot",
+    "ja": "暑い／熱い",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "cold",
+    "ja": "寒い／冷たい",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "warm",
+    "ja": "暖かい",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "cool",
+    "ja": "涼しい",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "happy",
+    "ja": "うれしい",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "sad",
+    "ja": "悲しい",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "fine",
+    "ja": "元気だ／大丈夫",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "busy",
+    "ja": "忙しい",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "easy",
+    "ja": "簡単な",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "difficult",
+    "ja": "難しい",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "morning",
+    "ja": "朝",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "afternoon",
+    "ja": "午後",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "evening",
+    "ja": "夕方",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "night",
+    "ja": "夜",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "today",
+    "ja": "今日",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "tomorrow",
+    "ja": "明日",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "yesterday",
+    "ja": "昨日",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "now",
+    "ja": "今",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "soon",
+    "ja": "すぐに",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "later",
+    "ja": "後で",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "always",
+    "ja": "いつも",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "often",
+    "ja": "しばしば",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "sometimes",
+    "ja": "ときどき",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "never",
+    "ja": "決して〜ない",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "here",
+    "ja": "ここ",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "there",
+    "ja": "そこ／あそこ",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "where",
+    "ja": "どこ",
+    "level": 1,
+    "series": "接続詞/副詞"
+  },
+  {
+    "en": "who",
+    "ja": "誰",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "what",
+    "ja": "何",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "when",
+    "ja": "いつ",
+    "level": 1,
+    "series": "接続詞/副詞"
+  },
+  {
+    "en": "why",
+    "ja": "なぜ",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "how",
+    "ja": "どうやって",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "and",
+    "ja": "そして",
+    "level": 1,
+    "series": "接続詞/副詞"
+  },
+  {
+    "en": "but",
+    "ja": "しかし",
+    "level": 1,
+    "series": "接続詞/副詞"
+  },
+  {
+    "en": "or",
+    "ja": "または",
+    "level": 1,
+    "series": "接続詞/副詞"
+  },
+  {
+    "en": "because",
+    "ja": "なぜなら",
+    "level": 1,
+    "series": "接続詞/副詞"
+  },
+  {
+    "en": "so",
+    "ja": "だから",
+    "level": 1,
+    "series": "接続詞/副詞"
+  },
+  {
+    "en": "please",
+    "ja": "お願いします",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "thank",
+    "ja": "感謝する",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "sorry",
+    "ja": "ごめんなさい",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "apple",
+    "ja": "りんご",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "banana",
+    "ja": "バナナ",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "grape",
+    "ja": "ぶどう",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "lemon",
+    "ja": "レモン",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "rice",
+    "ja": "ご飯",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "bread",
+    "ja": "パン",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "milk",
+    "ja": "牛乳",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "tea",
+    "ja": "お茶",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "coffee",
+    "ja": "コーヒー",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "water",
+    "ja": "水",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "juice",
+    "ja": "ジュース",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "cake",
+    "ja": "ケーキ",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "egg",
+    "ja": "卵",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "fish",
+    "ja": "魚",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "meat",
+    "ja": "肉",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "vegetable",
+    "ja": "野菜",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "dog",
+    "ja": "犬",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "cat",
+    "ja": "猫",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "bird",
+    "ja": "鳥",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "horse",
+    "ja": "馬",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "cow",
+    "ja": "牛",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "pig",
+    "ja": "豚",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "rabbit",
+    "ja": "うさぎ",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "park",
+    "ja": "公園",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "station",
+    "ja": "駅",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "hospital",
+    "ja": "病院",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "library",
+    "ja": "図書館",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "store",
+    "ja": "店",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "shop",
+    "ja": "店",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "bank",
+    "ja": "銀行",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "bus",
+    "ja": "バス",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "train",
+    "ja": "電車",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "car",
+    "ja": "車",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "bike",
+    "ja": "自転車",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "plane",
+    "ja": "飛行機",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "rain",
+    "ja": "雨",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "snow",
+    "ja": "雪",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "wind",
+    "ja": "風",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "sun",
+    "ja": "太陽",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "cloud",
+    "ja": "雲",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "street",
+    "ja": "通り",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "road",
+    "ja": "道路",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "city",
+    "ja": "都市",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "town",
+    "ja": "町",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "village",
+    "ja": "村",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "country",
+    "ja": "国",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "Japan",
+    "ja": "日本",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "English",
+    "ja": "英語",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "name",
+    "ja": "名前",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "age",
+    "ja": "年齢",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "boy",
+    "ja": "男の子",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "girl",
+    "ja": "女の子",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "man",
+    "ja": "男性",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "woman",
+    "ja": "女性",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "people",
+    "ja": "人々",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "hand",
+    "ja": "手",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "head",
+    "ja": "頭",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "eye",
+    "ja": "目",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "ear",
+    "ja": "耳",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "nose",
+    "ja": "鼻",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "mouth",
+    "ja": "口",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "hair",
+    "ja": "髪",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "face",
+    "ja": "顔",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "leg",
+    "ja": "足",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "foot",
+    "ja": "足",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "arm",
+    "ja": "腕",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "finger",
+    "ja": "指",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "body",
+    "ja": "体",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "house",
+    "ja": "家",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "kitchen",
+    "ja": "台所",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "bathroom",
+    "ja": "浴室／トイレ",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "bedroom",
+    "ja": "寝室",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "garden",
+    "ja": "庭",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "table",
+    "ja": "テーブル",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "bed",
+    "ja": "ベッド",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "box",
+    "ja": "箱",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "picture",
+    "ja": "絵／写真",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "letter",
+    "ja": "手紙",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "day",
+    "ja": "日",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "week",
+    "ja": "週",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "month",
+    "ja": "月",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "year",
+    "ja": "年",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "time",
+    "ja": "時間",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "minute",
+    "ja": "分",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "hour",
+    "ja": "時間（1時間）",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "start",
+    "ja": "始める",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "start",
+      "past": "started",
+      "pp": "started"
+    }
+  },
+  {
+    "en": "finish",
+    "ja": "終える",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "finish",
+      "past": "finished",
+      "pp": "finished"
+    }
+  },
+  {
+    "en": "buy",
+    "ja": "買う",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "buy",
+      "past": "bought",
+      "pp": "bought"
+    }
+  },
+  {
+    "en": "sell",
+    "ja": "売る",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "sell",
+      "past": "sold",
+      "pp": "sold"
+    }
+  },
+  {
+    "en": "pay",
+    "ja": "払う",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "pay",
+      "past": "paid",
+      "pp": "paid"
+    }
+  },
+  {
+    "en": "meet",
+    "ja": "会う",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "meet",
+      "past": "met",
+      "pp": "met"
+    }
+  },
+  {
+    "en": "call",
+    "ja": "電話する",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "call",
+      "past": "called",
+      "pp": "called"
+    }
+  },
+  {
+    "en": "wait",
+    "ja": "待つ",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "wait",
+      "past": "waited",
+      "pp": "waited"
+    }
+  },
+  {
+    "en": "sit",
+    "ja": "座る",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "sit",
+      "past": "sat",
+      "pp": "sat"
+    }
+  },
+  {
+    "en": "stand",
+    "ja": "立つ",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "stand",
+      "past": "stood",
+      "pp": "stood"
+    }
+  },
+  {
+    "en": "live",
+    "ja": "住む",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "live",
+      "past": "lived",
+      "pp": "lived"
+    }
+  },
+  {
+    "en": "work",
+    "ja": "働く",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "work",
+      "past": "worked",
+      "pp": "worked"
+    }
+  },
+  {
+    "en": "cook",
+    "ja": "料理する",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "cook",
+      "past": "cooked",
+      "pp": "cooked"
+    }
+  },
+  {
+    "en": "clean",
+    "ja": "掃除する",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "clean",
+      "past": "cleaned",
+      "pp": "cleaned"
+    }
+  },
+  {
+    "en": "wash",
+    "ja": "洗う",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "fast",
+    "ja": "速い",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "slow",
+    "ja": "遅い",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "long",
+    "ja": "長い",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "short",
+    "ja": "短い",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "early",
+    "ja": "早い",
+    "level": 1,
+    "series": "副詞"
+  },
+  {
+    "en": "late",
+    "ja": "遅い／遅刻した",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "beautiful",
+    "ja": "美しい",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "nice",
+    "ja": "素敵な",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "kind",
+    "ja": "親切な",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "strong",
+    "ja": "強い",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "weak",
+    "ja": "弱い",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "young",
+    "ja": "若い",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "hello",
+    "ja": "こんにちは",
+    "level": 1,
+    "series": "その他"
+  },
+  {
+    "en": "goodbye",
+    "ja": "さようなら",
+    "level": 1,
+    "series": "その他"
+  },
+  {
+    "en": "maybe",
+    "ja": "たぶん",
+    "level": 1,
+    "series": "副詞"
+  },
+  {
+    "en": "second",
+    "ja": "秒",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "parent",
+    "ja": "親",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "child",
+    "ja": "子ども",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "homework",
+    "ja": "宿題",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "test",
+    "ja": "テスト",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "question",
+    "ja": "質問",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "answer",
+    "ja": "答え/答える",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "answer",
+      "past": "answered",
+      "pp": "answered"
+    }
+  },
+  {
+    "en": "hate",
+    "ja": "嫌う",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "hate",
+      "past": "hated",
+      "pp": "hated"
+    }
+  },
+  {
+    "en": "ask",
+    "ja": "尋ねる",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "ask",
+      "past": "asked",
+      "pp": "asked"
+    }
+  },
+  {
+    "en": "show",
+    "ja": "見せる",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "show",
+      "past": "showed",
+      "pp": "showed"
+    }
+  },
+  {
+    "en": "wake",
+    "ja": "目が覚める/起こす",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "wake",
+      "past": "woke",
+      "pp": "woken"
+    }
+  },
+  {
+    "en": "jump",
+    "ja": "跳ぶ",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "jump",
+      "past": "jumped",
+      "pp": "jumped"
+    }
+  },
+  {
+    "en": "travel",
+    "ja": "旅行する",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "travel",
+      "past": "traveled",
+      "pp": "traveled"
+    }
+  },
+  {
+    "en": "visit",
+    "ja": "訪れる",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "visit",
+      "past": "visited",
+      "pp": "visited"
+    }
+  },
+  {
+    "en": "feel",
+    "ja": "感じる",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "feel",
+      "past": "felt",
+      "pp": "felt"
+    }
+  },
+  {
+    "en": "think",
+    "ja": "考える",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "think",
+      "past": "thought",
+      "pp": "thought"
+    }
+  },
+  {
+    "en": "know",
+    "ja": "知っている",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "know",
+      "past": "knew",
+      "pp": "known"
+    }
+  },
+  {
+    "en": "understand",
+    "ja": "理解する",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "understand",
+      "past": "understood",
+      "pp": "understood"
+    }
+  },
+  {
+    "en": "remember",
+    "ja": "覚えている",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "remember",
+      "past": "remembered",
+      "pp": "remembered"
+    }
+  },
+  {
+    "en": "forget",
+    "ja": "忘れる",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "forget",
+      "past": "forgot",
+      "pp": "forgotten"
+    }
+  },
+  {
+    "en": "find",
+    "ja": "見つける",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "find",
+      "past": "found",
+      "pp": "found"
+    }
+  },
+  {
+    "en": "bring",
+    "ja": "持ってくる",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "bring",
+      "past": "brought",
+      "pp": "brought"
+    }
+  },
+  {
+    "en": "carry",
+    "ja": "運ぶ",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "carry",
+      "past": "carried",
+      "pp": "carried"
+    }
+  },
+  {
+    "en": "put",
+    "ja": "置く",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "put",
+      "past": "put",
+      "pp": "put"
+    }
+  },
+  {
+    "en": "build",
+    "ja": "建てる",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "build",
+      "past": "built",
+      "pp": "built"
+    }
+  },
+  {
+    "en": "break",
+    "ja": "壊す",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "break",
+      "past": "broke",
+      "pp": "broken"
+    }
+  },
+  {
+    "en": "fix",
+    "ja": "直す",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "fix",
+      "past": "fixed",
+      "pp": "fixed"
+    }
+  },
+  {
+    "en": "draw",
+    "ja": "描く",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "draw",
+      "past": "drew",
+      "pp": "drawn"
+    }
+  },
+  {
+    "en": "sing",
+    "ja": "歌う",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "sing",
+      "past": "sang",
+      "pp": "sung"
+    }
+  },
+  {
+    "en": "dance",
+    "ja": "踊る",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "dance",
+      "past": "danced",
+      "pp": "danced"
+    }
+  },
+  {
+    "en": "angry",
+    "ja": "怒っている",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "tired",
+    "ja": "疲れた",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "hungry",
+    "ja": "空腹な",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "thirsty",
+    "ja": "のどが渇いた",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "important",
+    "ja": "重要な",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "interesting",
+    "ja": "面白い",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "boring",
+    "ja": "退屈な",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "inside",
+    "ja": "内側",
+    "level": 1,
+    "series": "名詞/副詞"
+  },
+  {
+    "en": "outside",
+    "ja": "外側",
+    "level": 1,
+    "series": "名詞/副詞"
+  },
+  {
+    "en": "above",
+    "ja": "上に",
+    "level": 1,
+    "series": "前置詞/副詞"
+  },
+  {
+    "en": "below",
+    "ja": "下に",
+    "level": 1,
+    "series": "前置詞/副詞"
+  },
+  {
+    "en": "near",
+    "ja": "近くに",
+    "level": 1,
+    "series": "前置詞"
+  },
+  {
+    "en": "far",
+    "ja": "遠い",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "before",
+    "ja": "〜の前に",
+    "level": 1,
+    "series": "前置詞/接続詞"
+  },
+  {
+    "en": "after",
+    "ja": "〜の後に",
+    "level": 1,
+    "series": "前置詞/接続詞"
+  },
+  {
+    "en": "during",
+    "ja": "〜の間に",
+    "level": 1,
+    "series": "前置詞"
+  },
+  {
+    "en": "until",
+    "ja": "〜まで",
+    "level": 1,
+    "series": "前置詞/接続詞"
+  },
+  {
+    "en": "if",
+    "ja": "もし〜なら",
+    "level": 1,
+    "series": "接続詞"
+  },
+  {
+    "en": "which",
+    "ja": "どちら",
+    "level": 1,
+    "series": "代名詞/形容詞"
+  },
+  {
+    "en": "whose",
+    "ja": "誰の",
+    "level": 1,
+    "series": "代名詞/形容詞"
+  },
+  {
+    "en": "peach",
+    "ja": "もも",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "strawberry",
+    "ja": "いちご",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "watermelon",
+    "ja": "スイカ",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "noodle",
+    "ja": "麺",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "cheese",
+    "ja": "チーズ",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "butter",
+    "ja": "バター",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "sugar",
+    "ja": "砂糖",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "salt",
+    "ja": "塩",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "pepper",
+    "ja": "こしょう",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "chicken",
+    "ja": "鶏肉",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "beef",
+    "ja": "牛肉",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "pork",
+    "ja": "豚肉",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "potato",
+    "ja": "じゃがいも",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "tomato",
+    "ja": "トマト",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "onion",
+    "ja": "たまねぎ",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "carrot",
+    "ja": "にんじん",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "cabbage",
+    "ja": "キャベツ",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "salad",
+    "ja": "サラダ",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "soup",
+    "ja": "スープ",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "dessert",
+    "ja": "デザート",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "cookie",
+    "ja": "クッキー",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "chocolate",
+    "ja": "チョコレート",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "ice",
+    "ja": "氷",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "breakfast",
+    "ja": "朝食",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "lunch",
+    "ja": "昼食",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "dinner",
+    "ja": "夕食",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "turtle",
+    "ja": "カメ",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "snake",
+    "ja": "へび",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "lion",
+    "ja": "ライオン",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "tiger",
+    "ja": "トラ",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "elephant",
+    "ja": "象",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "monkey",
+    "ja": "猿",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "bear",
+    "ja": "クマ",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "panda",
+    "ja": "パンダ",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "paper",
+    "ja": "紙",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "key",
+    "ja": "鍵",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "movie",
+    "ja": "映画",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "basketball",
+    "ja": "バスケットボール",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "moon",
+    "ja": "月",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "star",
+    "ja": "星",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "sky",
+    "ja": "空",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "sea",
+    "ja": "海",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "river",
+    "ja": "川",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "mountain",
+    "ja": "山",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "forest",
+    "ja": "森",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "post office",
+    "ja": "郵便局",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "airport",
+    "ja": "空港",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "bicycle",
+    "ja": "自転車",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "bridge",
+    "ja": "橋",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "color",
+    "ja": "色",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "welcome",
+    "ja": "歓迎する",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "welcome",
+      "past": "welcomed",
+      "pp": "welcomed"
+    }
+  },
+  {
+    "en": "win",
+    "ja": "勝つ",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "win",
+      "past": "won",
+      "pp": "won"
+    }
+  },
+  {
+    "en": "lose",
+    "ja": "負ける",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "lose",
+      "past": "lost",
+      "pp": "lost"
+    }
+  },
+  {
+    "en": "practice",
+    "ja": "練習する",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "practice",
+      "past": "practiced",
+      "pp": "practiced"
+    }
+  },
+  {
+    "en": "plan",
+    "ja": "計画する",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "plan",
+      "past": "planed",
+      "pp": "planed"
+    }
+  },
+  {
+    "en": "move",
+    "ja": "動く",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "move",
+      "past": "moved",
+      "pp": "moved"
+    }
+  },
+  {
+    "en": "hope",
+    "ja": "望む",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "hope",
+      "past": "hoped",
+      "pp": "hoped"
+    }
+  },
+  {
+    "en": "try",
+    "ja": "試す",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "try",
+      "past": "tried",
+      "pp": "tried"
+    }
+  },
+  {
+    "en": "shirt",
+    "ja": "シャツ",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "pants",
+    "ja": "ズボン",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "shoes",
+    "ja": "靴",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "socks",
+    "ja": "靴下",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "jacket",
+    "ja": "上着",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "hat",
+    "ja": "帽子",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "umbrella",
+    "ja": "傘",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "wallet",
+    "ja": "財布",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "calendar",
+    "ja": "カレンダー",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "camera",
+    "ja": "カメラ",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "television",
+    "ja": "テレビ",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "internet",
+    "ja": "インターネット",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "email",
+    "ja": "メール",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "ticket",
+    "ja": "切符",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "money",
+    "ja": "お金",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "coin",
+    "ja": "硬貨",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "bill",
+    "ja": "紙幣/請求書",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "price",
+    "ja": "値段",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "market",
+    "ja": "市場",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "restaurant",
+    "ja": "レストラン",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "menu",
+    "ja": "メニュー",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "order",
+    "ja": "注文する",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "order",
+      "past": "ordered",
+      "pp": "ordered"
+    }
+  },
+  {
+    "en": "bake",
+    "ja": "焼く",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "bake",
+      "past": "baked",
+      "pp": "baked"
+    }
+  },
+  {
+    "en": "boil",
+    "ja": "ゆでる",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "boil",
+      "past": "boiled",
+      "pp": "boiled"
+    }
+  },
+  {
+    "en": "cut",
+    "ja": "切る",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "cut",
+      "past": "cut",
+      "pp": "cut"
+    }
+  },
+  {
+    "en": "mix",
+    "ja": "混ぜる",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "mix",
+      "past": "mixed",
+      "pp": "mixed"
+    }
+  },
+  {
+    "en": "taste",
+    "ja": "味わう",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "taste",
+      "past": "tasted",
+      "pp": "tasted"
+    }
+  },
+  {
+    "en": "smell",
+    "ja": "においがする/嗅ぐ",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "smell",
+      "past": "smelled",
+      "pp": "smelled"
+    }
+  },
+  {
+    "en": "touch",
+    "ja": "触る",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "touch",
+      "past": "touched",
+      "pp": "touched"
+    }
+  },
+  {
+    "en": "smile",
+    "ja": "ほほえむ",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "smile",
+      "past": "smiled",
+      "pp": "smiled"
+    }
+  },
+  {
+    "en": "laugh",
+    "ja": "笑う",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "laugh",
+      "past": "laughed",
+      "pp": "laughed"
+    }
+  },
+  {
+    "en": "cry",
+    "ja": "泣く",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "cry",
+      "past": "cried",
+      "pp": "cried"
+    }
+  },
+  {
+    "en": "talk",
+    "ja": "話す",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "talk",
+      "past": "talked",
+      "pp": "talked"
+    }
+  },
+  {
+    "en": "chat",
+    "ja": "おしゃべりする",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "chat",
+      "past": "chated",
+      "pp": "chated"
+    }
+  },
+  {
+    "en": "drive",
+    "ja": "運転する",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "drive",
+      "past": "drove",
+      "pp": "driven"
+    }
+  },
+  {
+    "en": "ride",
+    "ja": "乗る",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "ride",
+      "past": "rode",
+      "pp": "ridden"
+    }
+  },
+  {
+    "en": "stop",
+    "ja": "止まる/止める",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "stop",
+      "past": "stoped",
+      "pp": "stoped"
+    }
+  },
+  {
+    "en": "turn",
+    "ja": "曲がる/回す",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "turn",
+      "past": "turned",
+      "pp": "turned"
+    }
+  },
+  {
+    "en": "cross",
+    "ja": "渡る",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "cross",
+      "past": "crossed",
+      "pp": "crossed"
+    }
+  },
+  {
+    "en": "climb",
+    "ja": "登る",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "climb",
+      "past": "climbed",
+      "pp": "climbed"
+    }
+  },
+  {
+    "en": "rise",
+    "ja": "上がる",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "rise",
+      "past": "rose",
+      "pp": "risen"
+    }
+  },
+  {
+    "en": "throw",
+    "ja": "投げる",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "throw",
+      "past": "threw",
+      "pp": "thrown"
+    }
+  },
+  {
+    "en": "catch",
+    "ja": "捕まえる",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "catch",
+      "past": "caught",
+      "pp": "caught"
+    }
+  },
+  {
+    "en": "kick",
+    "ja": "蹴る",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "kick",
+      "past": "kicked",
+      "pp": "kicked"
+    }
+  },
+  {
+    "en": "push",
+    "ja": "押す",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "push",
+      "past": "pushed",
+      "pp": "pushed"
+    }
+  },
+  {
+    "en": "pull",
+    "ja": "引く",
+    "level": 1,
+    "series": "動詞",
+    "forms": {
+      "base": "pull",
+      "past": "pulled",
+      "pp": "pulled"
+    }
+  },
+  {
+    "en": "safe",
+    "ja": "安全な",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "danger",
+    "ja": "危険",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "dangerous",
+    "ja": "危険な",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "noisy",
+    "ja": "うるさい",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "quiet",
+    "ja": "静かな",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "bright",
+    "ja": "明るい",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "dark",
+    "ja": "暗い",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "sweet",
+    "ja": "甘い",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "salty",
+    "ja": "しょっぱい",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "bitter",
+    "ja": "苦い",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "spicy",
+    "ja": "辛い",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "fresh",
+    "ja": "新鮮な",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "dirty",
+    "ja": "汚い",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "cheap",
+    "ja": "安い",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "expensive",
+    "ja": "高い",
+    "level": 1,
+    "series": "形容詞"
+  },
+  {
+    "en": "quietly",
+    "ja": "静かに",
+    "level": 1,
+    "series": "副詞"
+  },
+  {
+    "en": "slowly",
+    "ja": "ゆっくり",
+    "level": 1,
+    "series": "副詞"
+  },
+  {
+    "en": "again",
+    "ja": "もう一度",
+    "level": 1,
+    "series": "副詞"
+  },
+  {
+    "en": "together",
+    "ja": "一緒に",
+    "level": 1,
+    "series": "副詞"
+  },
+  {
+    "en": "alone",
+    "ja": "一人で",
+    "level": 1,
+    "series": "副詞/形容詞"
+  },
+  {
+    "en": "doctor",
+    "ja": "医者",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "nurse",
+    "ja": "看護師",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "police",
+    "ja": "警察",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "firefighter",
+    "ja": "消防士",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "driver",
+    "ja": "運転手",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "waiter",
+    "ja": "ウェイター",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "waitress",
+    "ja": "ウェイトレス",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "artist",
+    "ja": "芸術家",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "singer",
+    "ja": "歌手",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "dancer",
+    "ja": "ダンサー",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "actor",
+    "ja": "俳優",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "actress",
+    "ja": "女優",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "farmer",
+    "ja": "農家",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "office",
+    "ja": "事務所",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "company",
+    "ja": "会社",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "job",
+    "ja": "仕事",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "holiday",
+    "ja": "休日",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "birthday",
+    "ja": "誕生日",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "gift",
+    "ja": "贈り物",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "party",
+    "ja": "パーティー",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "song",
+    "ja": "歌",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "sound",
+    "ja": "音",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "noise",
+    "ja": "騒音",
+    "level": 1,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "prepare",
+    "ja": "準備する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "prepare",
+      "past": "prepared",
+      "pp": "prepared"
+    }
+  },
+  {
+    "en": "decide",
+    "ja": "決める",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "decide",
+      "past": "decided",
+      "pp": "decided"
+    }
+  },
+  {
+    "en": "choose",
+    "ja": "選ぶ",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "choose",
+      "past": "chose",
+      "pp": "chosen"
+    }
+  },
+  {
+    "en": "enjoy",
+    "ja": "楽しむ",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "enjoy",
+      "past": "enjoyed",
+      "pp": "enjoyed"
+    }
+  },
+  {
+    "en": "continue",
+    "ja": "続ける",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "continue",
+      "past": "continued",
+      "pp": "continued"
+    }
+  },
+  {
+    "en": "change",
+    "ja": "変える／変わる",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "change",
+      "past": "changed",
+      "pp": "changed"
+    }
+  },
+  {
+    "en": "improve",
+    "ja": "改善する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "improve",
+      "past": "improved",
+      "pp": "improved"
+    }
+  },
+  {
+    "en": "join",
+    "ja": "参加する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "join",
+      "past": "joined",
+      "pp": "joined"
+    }
+  },
+  {
+    "en": "share",
+    "ja": "共有する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "share",
+      "past": "shared",
+      "pp": "shared"
+    }
+  },
+  {
+    "en": "stay",
+    "ja": "滞在する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "stay",
+      "past": "stayed",
+      "pp": "stayed"
+    }
+  },
+  {
+    "en": "arrive",
+    "ja": "到着する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "arrive",
+      "past": "arrived",
+      "pp": "arrived"
+    }
+  },
+  {
+    "en": "leave",
+    "ja": "出発する／去る",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "leave",
+      "past": "left",
+      "pp": "left"
+    }
+  },
+  {
+    "en": "return",
+    "ja": "戻る",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "return",
+      "past": "returned",
+      "pp": "returned"
+    }
+  },
+  {
+    "en": "promise",
+    "ja": "約束する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "promise",
+      "past": "promised",
+      "pp": "promised"
+    }
+  },
+  {
+    "en": "fail",
+    "ja": "失敗する",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "explain",
+    "ja": "説明する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "explain",
+      "past": "explained",
+      "pp": "explained"
+    }
+  },
+  {
+    "en": "mean",
+    "ja": "意味する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "mean",
+      "past": "meaned",
+      "pp": "meaned"
+    }
+  },
+  {
+    "en": "example",
+    "ja": "例",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "difference",
+    "ja": "違い",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "same",
+    "ja": "同じ",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "necessary",
+    "ja": "必要な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "possible",
+    "ja": "可能な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "popular",
+    "ja": "人気の",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "special",
+    "ja": "特別な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "famous",
+    "ja": "有名な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "problem",
+    "ja": "問題",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "idea",
+    "ja": "考え",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "reason",
+    "ja": "理由",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "result",
+    "ja": "結果",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "experience",
+    "ja": "経験",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "future",
+    "ja": "未来",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "past",
+    "ja": "過去",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "however",
+    "ja": "しかしながら",
+    "level": 2,
+    "series": "接続詞/副詞"
+  },
+  {
+    "en": "also",
+    "ja": "また",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "each",
+    "ja": "それぞれ",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "another",
+    "ja": "別の",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "every",
+    "ja": "すべての／毎〜",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "both",
+    "ja": "両方",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "either",
+    "ja": "どちらか",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "neither",
+    "ja": "どちらも〜ない",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "almost",
+    "ja": "ほとんど",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "enough",
+    "ja": "十分な",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "already",
+    "ja": "すでに",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "still",
+    "ja": "まだ",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "yet",
+    "ja": "まだ（否定・疑問）",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "once",
+    "ja": "一度",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "twice",
+    "ja": "二度",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "first",
+    "ja": "最初の",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "third",
+    "ja": "3番目の",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "next",
+    "ja": "次の",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "last",
+    "ja": "最後の／この前の",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "usually",
+    "ja": "たいてい",
+    "level": 2,
+    "series": "副詞"
+  },
+  {
+    "en": "rarely",
+    "ja": "めったに〜ない",
+    "level": 2,
+    "series": "副詞"
+  },
+  {
+    "en": "certain",
+    "ja": "確かな",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "sure",
+    "ja": "確信している",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "subject",
+    "ja": "科目",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "math",
+    "ja": "数学",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "science",
+    "ja": "理科",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "history",
+    "ja": "歴史",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "geography",
+    "ja": "地理",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "Japanese",
+    "ja": "国語",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "PE",
+    "ja": "体育",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "art",
+    "ja": "美術",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "club",
+    "ja": "部活動",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "team",
+    "ja": "チーム",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "member",
+    "ja": "メンバー",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "captain",
+    "ja": "キャプテン",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "rule",
+    "ja": "規則",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "exam",
+    "ja": "試験",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "score",
+    "ja": "点数",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "grade",
+    "ja": "成績／学年",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "project",
+    "ja": "課題／プロジェクト",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "report",
+    "ja": "レポート／報告",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "report",
+      "past": "reported",
+      "pp": "reported"
+    }
+  },
+  {
+    "en": "note",
+    "ja": "メモ／注意",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "message",
+    "ja": "メッセージ",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "news",
+    "ja": "ニュース",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "story",
+    "ja": "物語",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "article",
+    "ja": "記事",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "hobby",
+    "ja": "趣味",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "interest",
+    "ja": "興味",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "favorite",
+    "ja": "お気に入りの",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "happen",
+    "ja": "起こる",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "happen",
+      "past": "happened",
+      "pp": "happened"
+    }
+  },
+  {
+    "en": "hurry",
+    "ja": "急ぐ",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "hurry",
+      "past": "hurried",
+      "pp": "hurried"
+    }
+  },
+  {
+    "en": "miss",
+    "ja": "逃す／欠席する",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "believe",
+    "ja": "信じる",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "believe",
+      "past": "believed",
+      "pp": "believed"
+    }
+  },
+  {
+    "en": "guess",
+    "ja": "推測する",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "seem",
+    "ja": "〜のように見える",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "seem",
+      "past": "seemed",
+      "pp": "seemed"
+    }
+  },
+  {
+    "en": "agree",
+    "ja": "同意する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "agree",
+      "past": "agreed",
+      "pp": "agreed"
+    }
+  },
+  {
+    "en": "disagree",
+    "ja": "反対する",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "send",
+    "ja": "送る",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "send",
+      "past": "sent",
+      "pp": "sent"
+    }
+  },
+  {
+    "en": "receive",
+    "ja": "受け取る",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "receive",
+      "past": "received",
+      "pp": "received"
+    }
+  },
+  {
+    "en": "borrow",
+    "ja": "借りる",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "borrow",
+      "past": "borrowed",
+      "pp": "borrowed"
+    }
+  },
+  {
+    "en": "lend",
+    "ja": "貸す",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "lend",
+      "past": "lended",
+      "pp": "lended"
+    }
+  },
+  {
+    "en": "introduce",
+    "ja": "紹介する",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "hit",
+    "ja": "打つ",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "hit",
+      "past": "hit",
+      "pp": "hit"
+    }
+  },
+  {
+    "en": "begin",
+    "ja": "始める",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "end",
+    "ja": "終わる",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "hold",
+    "ja": "持つ",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "hold",
+      "past": "held",
+      "pp": "held"
+    }
+  },
+  {
+    "en": "keep",
+    "ja": "保つ／続ける",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "keep",
+      "past": "kept",
+      "pp": "kept"
+    }
+  },
+  {
+    "en": "save",
+    "ja": "節約する／救う",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "save",
+      "past": "saved",
+      "pp": "saved"
+    }
+  },
+  {
+    "en": "spend",
+    "ja": "（時間・お金を）使う",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "spend",
+      "past": "spended",
+      "pp": "spended"
+    }
+  },
+  {
+    "en": "cost",
+    "ja": "（費用が）かかる",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "free",
+    "ja": "無料の／自由な",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "loud",
+    "ja": "うるさい",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "healthy",
+    "ja": "健康な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "sick",
+    "ja": "病気の",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "sleepy",
+    "ja": "眠い",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "exciting",
+    "ja": "わくわくする",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "careful",
+    "ja": "注意深い",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "careless",
+    "ja": "不注意な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "polite",
+    "ja": "礼儀正しい",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "rude",
+    "ja": "失礼な",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "honest",
+    "ja": "正直な",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "friendly",
+    "ja": "友好的な",
+    "level": 2,
+    "series": "副詞"
+  },
+  {
+    "en": "wonderful",
+    "ja": "すばらしい",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "terrible",
+    "ja": "ひどい",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "different",
+    "ja": "異なる",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "similar",
+    "ja": "似ている",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "simple",
+    "ja": "簡単な／単純な",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "ready",
+    "ja": "準備ができた",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "suddenly",
+    "ja": "突然",
+    "level": 2,
+    "series": "副詞"
+  },
+  {
+    "en": "quickly",
+    "ja": "すぐに／速く",
+    "level": 2,
+    "series": "副詞"
+  },
+  {
+    "en": "carefully",
+    "ja": "注意深く",
+    "level": 2,
+    "series": "副詞"
+  },
+  {
+    "en": "easily",
+    "ja": "簡単に",
+    "level": 2,
+    "series": "副詞"
+  },
+  {
+    "en": "really",
+    "ja": "本当に",
+    "level": 2,
+    "series": "副詞"
+  },
+  {
+    "en": "probably",
+    "ja": "おそらく",
+    "level": 2,
+    "series": "副詞"
+  },
+  {
+    "en": "finally",
+    "ja": "ついに",
+    "level": 2,
+    "series": "副詞"
+  },
+  {
+    "en": "place",
+    "ja": "場所",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "area",
+    "ja": "地域",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "space",
+    "ja": "空間",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "corner",
+    "ja": "角",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "center",
+    "ja": "中心",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "front",
+    "ja": "前",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "back",
+    "ja": "後ろ",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "side",
+    "ja": "側",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "top",
+    "ja": "上部",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "bottom",
+    "ja": "底",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "information",
+    "ja": "情報",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "data",
+    "ja": "データ",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "website",
+    "ja": "ウェブサイト",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "password",
+    "ja": "パスワード",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "account",
+    "ja": "アカウント",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "video",
+    "ja": "動画",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "serve",
+    "ja": "提供する",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "reservation",
+    "ja": "予約",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "weather",
+    "ja": "天気",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "temperature",
+    "ja": "気温",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "season",
+    "ja": "季節",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "event",
+    "ja": "イベント",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "festival",
+    "ja": "祭り",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "language",
+    "ja": "言語",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "word",
+    "ja": "単語",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "sentence",
+    "ja": "文",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "meaning",
+    "ja": "意味",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "grammar",
+    "ja": "文法",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "dictionary",
+    "ja": "辞書",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "conversation",
+    "ja": "会話",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "discussion",
+    "ja": "話し合い",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "opinion",
+    "ja": "意見",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "choice",
+    "ja": "選択",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "decision",
+    "ja": "決定",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "chance",
+    "ja": "機会",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "risk",
+    "ja": "危険／リスク",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "goal",
+    "ja": "目標",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "dream",
+    "ja": "夢",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "dream",
+      "past": "dreamed",
+      "pp": "dreamed"
+    }
+  },
+  {
+    "en": "skill",
+    "ja": "技能",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "ability",
+    "ja": "能力",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "level",
+    "ja": "レベル",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "progress",
+    "ja": "進歩",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "habit",
+    "ja": "習慣",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "environment",
+    "ja": "環境",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "culture",
+    "ja": "文化",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "community",
+    "ja": "地域社会",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "activity",
+    "ja": "活動",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "schedule",
+    "ja": "予定",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "situation",
+    "ja": "状況",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "communication",
+    "ja": "コミュニケーション",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "relationship",
+    "ja": "関係",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "support",
+    "ja": "支援する／支える",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "protect",
+    "ja": "守る",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "protect",
+      "past": "protected",
+      "pp": "protected"
+    }
+  },
+  {
+    "en": "prevent",
+    "ja": "防ぐ",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "allow",
+    "ja": "許す",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "allow",
+      "past": "allowed",
+      "pp": "allowed"
+    }
+  },
+  {
+    "en": "refuse",
+    "ja": "断る",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "accept",
+    "ja": "受け入れる",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "accept",
+      "past": "accepted",
+      "pp": "accepted"
+    }
+  },
+  {
+    "en": "offer",
+    "ja": "申し出る",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "suggest",
+    "ja": "提案する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "suggest",
+      "past": "suggested",
+      "pp": "suggested"
+    }
+  },
+  {
+    "en": "advise",
+    "ja": "助言する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "advise",
+      "past": "advised",
+      "pp": "advised"
+    }
+  },
+  {
+    "en": "invite",
+    "ja": "招待する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "invite",
+      "past": "invited",
+      "pp": "invited"
+    }
+  },
+  {
+    "en": "describe",
+    "ja": "説明する／描写する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "describe",
+      "past": "described",
+      "pp": "described"
+    }
+  },
+  {
+    "en": "compare",
+    "ja": "比べる",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "compare",
+      "past": "compared",
+      "pp": "compared"
+    }
+  },
+  {
+    "en": "collect",
+    "ja": "集める",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "check",
+    "ja": "確認する",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "discover",
+    "ja": "発見する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "discover",
+      "past": "discovered",
+      "pp": "discovered"
+    }
+  },
+  {
+    "en": "develop",
+    "ja": "発展させる／開発する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "develop",
+      "past": "developed",
+      "pp": "developed"
+    }
+  },
+  {
+    "en": "create",
+    "ja": "創造する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "create",
+      "past": "created",
+      "pp": "created"
+    }
+  },
+  {
+    "en": "design",
+    "ja": "設計する",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "control",
+    "ja": "管理する",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "increase",
+    "ja": "増加する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "increase",
+      "past": "increased",
+      "pp": "increased"
+    }
+  },
+  {
+    "en": "reduce",
+    "ja": "減らす",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "raise",
+    "ja": "上げる／育てる",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "raise",
+      "past": "raised",
+      "pp": "raised"
+    }
+  },
+  {
+    "en": "lower",
+    "ja": "下げる",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "include",
+    "ja": "含む",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "include",
+      "past": "included",
+      "pp": "included"
+    }
+  },
+  {
+    "en": "contain",
+    "ja": "含む",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "contain",
+      "past": "contained",
+      "pp": "contained"
+    }
+  },
+  {
+    "en": "except",
+    "ja": "除いて",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "provide",
+    "ja": "提供する",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "require",
+    "ja": "必要とする",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "prefer",
+    "ja": "〜の方が好き",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "prefer",
+      "past": "prefered",
+      "pp": "prefered"
+    }
+  },
+  {
+    "en": "expect",
+    "ja": "期待する",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "success",
+    "ja": "成功",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "failure",
+    "ja": "失敗",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "attention",
+    "ja": "注意",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "notice",
+    "ja": "気づく",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "mistake",
+    "ja": "間違い",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "memory",
+    "ja": "記憶",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "mind",
+    "ja": "心／考え",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "knowledge",
+    "ja": "知識",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "truth",
+    "ja": "真実",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "fact",
+    "ja": "事実",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "decrease",
+    "ja": "減る/減らす",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "decrease",
+      "past": "decreased",
+      "pp": "decreased"
+    }
+  },
+  {
+    "en": "reply",
+    "ja": "返信する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "reply",
+      "past": "replied",
+      "pp": "replied"
+    }
+  },
+  {
+    "en": "request",
+    "ja": "要求する/依頼する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "request",
+      "past": "requested",
+      "pp": "requested"
+    }
+  },
+  {
+    "en": "argue",
+    "ja": "議論する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "argue",
+      "past": "argued",
+      "pp": "argued"
+    }
+  },
+  {
+    "en": "consider",
+    "ja": "検討する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "consider",
+      "past": "considered",
+      "pp": "considered"
+    }
+  },
+  {
+    "en": "depend",
+    "ja": "依存する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "depend",
+      "past": "depended",
+      "pp": "depended"
+    }
+  },
+  {
+    "en": "encourage",
+    "ja": "励ます",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "encourage",
+      "past": "encouraged",
+      "pp": "encouraged"
+    }
+  },
+  {
+    "en": "influence",
+    "ja": "影響を与える",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "influence",
+      "past": "influenced",
+      "pp": "influenced"
+    }
+  },
+  {
+    "en": "manage",
+    "ja": "管理する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "manage",
+      "past": "managed",
+      "pp": "managed"
+    }
+  },
+  {
+    "en": "mention",
+    "ja": "言及する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "mention",
+      "past": "mentioned",
+      "pp": "mentioned"
+    }
+  },
+  {
+    "en": "predict",
+    "ja": "予測する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "predict",
+      "past": "predicted",
+      "pp": "predicted"
+    }
+  },
+  {
+    "en": "recommend",
+    "ja": "勧める",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "recommend",
+      "past": "recommended",
+      "pp": "recommended"
+    }
+  },
+  {
+    "en": "replace",
+    "ja": "置き換える",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "replace",
+      "past": "replaced",
+      "pp": "replaced"
+    }
+  },
+  {
+    "en": "respond",
+    "ja": "反応する/回答する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "respond",
+      "past": "responded",
+      "pp": "responded"
+    }
+  },
+  {
+    "en": "separate",
+    "ja": "分ける",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "separate",
+      "past": "separated",
+      "pp": "separated"
+    }
+  },
+  {
+    "en": "solve",
+    "ja": "解決する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "solve",
+      "past": "solved",
+      "pp": "solved"
+    }
+  },
+  {
+    "en": "succeed",
+    "ja": "成功する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "succeed",
+      "past": "succeeded",
+      "pp": "succeeded"
+    }
+  },
+  {
+    "en": "avoid",
+    "ja": "避ける",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "avoid",
+      "past": "avoided",
+      "pp": "avoided"
+    }
+  },
+  {
+    "en": "cause",
+    "ja": "引き起こす",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "cause",
+      "past": "caused",
+      "pp": "caused"
+    }
+  },
+  {
+    "en": "apply",
+    "ja": "適用する/応募する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "apply",
+      "past": "applied",
+      "pp": "applied"
+    }
+  },
+  {
+    "en": "attend",
+    "ja": "出席する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "attend",
+      "past": "attended",
+      "pp": "attended"
+    }
+  },
+  {
+    "en": "belong",
+    "ja": "属する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "belong",
+      "past": "belonged",
+      "pp": "belonged"
+    }
+  },
+  {
+    "en": "cheer",
+    "ja": "応援する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "cheer",
+      "past": "cheered",
+      "pp": "cheered"
+    }
+  },
+  {
+    "en": "discuss",
+    "ja": "議論する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "discuss",
+      "past": "discussed",
+      "pp": "discussed"
+    }
+  },
+  {
+    "en": "enter",
+    "ja": "入る",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "enter",
+      "past": "entered",
+      "pp": "entered"
+    }
+  },
+  {
+    "en": "escape",
+    "ja": "逃げる",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "escape",
+      "past": "escaped",
+      "pp": "escaped"
+    }
+  },
+  {
+    "en": "judge",
+    "ja": "判断する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "judge",
+      "past": "judged",
+      "pp": "judged"
+    }
+  },
+  {
+    "en": "measure",
+    "ja": "測る",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "measure",
+      "past": "measured",
+      "pp": "measured"
+    }
+  },
+  {
+    "en": "organize",
+    "ja": "組織する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "organize",
+      "past": "organized",
+      "pp": "organized"
+    }
+  },
+  {
+    "en": "perform",
+    "ja": "実行する/演じる",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "perform",
+      "past": "performed",
+      "pp": "performed"
+    }
+  },
+  {
+    "en": "realize",
+    "ja": "理解する/実現する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "realize",
+      "past": "realized",
+      "pp": "realized"
+    }
+  },
+  {
+    "en": "recognize",
+    "ja": "認識する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "recognize",
+      "past": "recognized",
+      "pp": "recognized"
+    }
+  },
+  {
+    "en": "respect",
+    "ja": "尊敬する/尊重する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "respect",
+      "past": "respected",
+      "pp": "respected"
+    }
+  },
+  {
+    "en": "supply",
+    "ja": "供給する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "supply",
+      "past": "supplied",
+      "pp": "supplied"
+    }
+  },
+  {
+    "en": "trust",
+    "ja": "信頼する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "trust",
+      "past": "trusted",
+      "pp": "trusted"
+    }
+  },
+  {
+    "en": "value",
+    "ja": "価値を置く",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "value",
+      "past": "valued",
+      "pp": "valued"
+    }
+  },
+  {
+    "en": "advice",
+    "ja": "助言",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "effort",
+    "ja": "努力",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "society",
+    "ja": "社会",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "solution",
+    "ja": "解決策",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "present",
+    "ja": "現在/贈り物",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "system",
+    "ja": "制度/仕組み",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "method",
+    "ja": "方法",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "process",
+    "ja": "過程",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "research",
+    "ja": "研究",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "technology",
+    "ja": "技術",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "distance",
+    "ja": "距離",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "population",
+    "ja": "人口",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "education",
+    "ja": "教育",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "government",
+    "ja": "政府",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "economy",
+    "ja": "経済",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "industry",
+    "ja": "産業",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "similarity",
+    "ja": "類似",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "advantage",
+    "ja": "利点",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "disadvantage",
+    "ja": "欠点",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "impossible",
+    "ja": "不可能な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "common",
+    "ja": "共通の/一般的な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "private",
+    "ja": "私的な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "public",
+    "ja": "公的な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "local",
+    "ja": "地元の",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "global",
+    "ja": "世界的な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "serious",
+    "ja": "真剣な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "complex",
+    "ja": "複雑な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "strict",
+    "ja": "厳しい",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "comfortable",
+    "ja": "快適な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "successful",
+    "ja": "成功した",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "beautifully",
+    "ja": "美しく",
+    "level": 2,
+    "series": "副詞"
+  },
+  {
+    "en": "fortunately",
+    "ja": "幸運にも",
+    "level": 2,
+    "series": "副詞"
+  },
+  {
+    "en": "actually",
+    "ja": "実際は",
+    "level": 2,
+    "series": "副詞"
+  },
+  {
+    "en": "especially",
+    "ja": "特に",
+    "level": 2,
+    "series": "副詞"
+  },
+  {
+    "en": "exactly",
+    "ja": "正確に",
+    "level": 2,
+    "series": "副詞"
+  },
+  {
+    "en": "immediately",
+    "ja": "すぐに",
+    "level": 2,
+    "series": "副詞"
+  },
+  {
+    "en": "afford",
+    "ja": "（経済的に）余裕がある",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "afford",
+      "past": "afforded",
+      "pp": "afforded"
+    }
+  },
+  {
+    "en": "announce",
+    "ja": "発表する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "announce",
+      "past": "announced",
+      "pp": "announced"
+    }
+  },
+  {
+    "en": "approve",
+    "ja": "承認する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "approve",
+      "past": "approved",
+      "pp": "approved"
+    }
+  },
+  {
+    "en": "arrange",
+    "ja": "手配する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "arrange",
+      "past": "arranged",
+      "pp": "arranged"
+    }
+  },
+  {
+    "en": "assure",
+    "ja": "保証する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "assure",
+      "past": "assured",
+      "pp": "assured"
+    }
+  },
+  {
+    "en": "assess",
+    "ja": "評価する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "assess",
+      "past": "assessed",
+      "pp": "assessed"
+    }
+  },
+  {
+    "en": "attach",
+    "ja": "添付する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "attach",
+      "past": "attached",
+      "pp": "attached"
+    }
+  },
+  {
+    "en": "attempt",
+    "ja": "試みる",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "attempt",
+      "past": "attempted",
+      "pp": "attempted"
+    }
+  },
+  {
+    "en": "balance",
+    "ja": "バランスを取る",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "balance",
+      "past": "balanced",
+      "pp": "balanced"
+    }
+  },
+  {
+    "en": "benefit",
+    "ja": "利益を得る/与える",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "benefit",
+      "past": "benefited",
+      "pp": "benefited"
+    }
+  },
+  {
+    "en": "cancel",
+    "ja": "取り消す",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "cancel",
+      "past": "canceled",
+      "pp": "canceled"
+    }
+  },
+  {
+    "en": "charge",
+    "ja": "請求する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "charge",
+      "past": "charged",
+      "pp": "charged"
+    }
+  },
+  {
+    "en": "confirm",
+    "ja": "確認する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "confirm",
+      "past": "confirmed",
+      "pp": "confirmed"
+    }
+  },
+  {
+    "en": "connect",
+    "ja": "つなぐ",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "connect",
+      "past": "connected",
+      "pp": "connected"
+    }
+  },
+  {
+    "en": "construct",
+    "ja": "建設する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "construct",
+      "past": "constructed",
+      "pp": "constructed"
+    }
+  },
+  {
+    "en": "consume",
+    "ja": "消費する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "consume",
+      "past": "consumed",
+      "pp": "consumed"
+    }
+  },
+  {
+    "en": "contact",
+    "ja": "連絡する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "contact",
+      "past": "contacted",
+      "pp": "contacted"
+    }
+  },
+  {
+    "en": "copy",
+    "ja": "コピーする",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "copy",
+      "past": "copied",
+      "pp": "copied"
+    }
+  },
+  {
+    "en": "correct",
+    "ja": "訂正する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "correct",
+      "past": "corrected",
+      "pp": "corrected"
+    }
+  },
+  {
+    "en": "deliver",
+    "ja": "配達する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "deliver",
+      "past": "delivered",
+      "pp": "delivered"
+    }
+  },
+  {
+    "en": "demand",
+    "ja": "要求する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "demand",
+      "past": "demanded",
+      "pp": "demanded"
+    }
+  },
+  {
+    "en": "divide",
+    "ja": "分ける",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "divide",
+      "past": "divided",
+      "pp": "divided"
+    }
+  },
+  {
+    "en": "enable",
+    "ja": "可能にする",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "enable",
+      "past": "enabled",
+      "pp": "enabled"
+    }
+  },
+  {
+    "en": "examine",
+    "ja": "調べる",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "examine",
+      "past": "examined",
+      "pp": "examined"
+    }
+  },
+  {
+    "en": "expand",
+    "ja": "拡大する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "expand",
+      "past": "expanded",
+      "pp": "expanded"
+    }
+  },
+  {
+    "en": "export",
+    "ja": "輸出する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "export",
+      "past": "exported",
+      "pp": "exported"
+    }
+  },
+  {
+    "en": "import",
+    "ja": "輸入する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "import",
+      "past": "imported",
+      "pp": "imported"
+    }
+  },
+  {
+    "en": "impress",
+    "ja": "感動させる",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "impress",
+      "past": "impressed",
+      "pp": "impressed"
+    }
+  },
+  {
+    "en": "independent",
+    "ja": "独立した",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "responsible",
+    "ja": "責任がある",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "available",
+    "ja": "利用できる",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "various",
+    "ja": "さまざまな",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "regular",
+    "ja": "規則的な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "ordinary",
+    "ja": "普通の",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "professional",
+    "ja": "専門的な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "recent",
+    "ja": "最近の",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "remarkable",
+    "ja": "注目すべき",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "effective",
+    "ja": "効果的な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "efficient",
+    "ja": "効率的な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "particular",
+    "ja": "特定の",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "quality",
+    "ja": "品質",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "quantity",
+    "ja": "量",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "expense",
+    "ja": "費用",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "budget",
+    "ja": "予算",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "profit",
+    "ja": "利益",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "loss",
+    "ja": "損失",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "customer",
+    "ja": "顧客",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "client",
+    "ja": "依頼人",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "employee",
+    "ja": "従業員",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "manager",
+    "ja": "管理者",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "meeting",
+    "ja": "会議",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "document",
+    "ja": "文書",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "contract",
+    "ja": "契約",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "policy",
+    "ja": "方針",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "strategy",
+    "ja": "戦略",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "opportunity",
+    "ja": "機会",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "challenge",
+    "ja": "課題",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "issue",
+    "ja": "問題",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "acquire",
+    "ja": "獲得する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "acquire",
+      "past": "acquired",
+      "pp": "acquired"
+    }
+  },
+  {
+    "en": "adapt",
+    "ja": "適応する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "adapt",
+      "past": "adapted",
+      "pp": "adapted"
+    }
+  },
+  {
+    "en": "advance",
+    "ja": "進める/進歩する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "advance",
+      "past": "advanced",
+      "pp": "advanced"
+    }
+  },
+  {
+    "en": "affect",
+    "ja": "影響する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "affect",
+      "past": "affected",
+      "pp": "affected"
+    }
+  },
+  {
+    "en": "aid",
+    "ja": "助ける",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "aid",
+      "past": "aided",
+      "pp": "aided"
+    }
+  },
+  {
+    "en": "appoint",
+    "ja": "任命する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "appoint",
+      "past": "appointed",
+      "pp": "appointed"
+    }
+  },
+  {
+    "en": "approach",
+    "ja": "近づく/取り組む",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "approach",
+      "past": "approached",
+      "pp": "approached"
+    }
+  },
+  {
+    "en": "assist",
+    "ja": "手伝う",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "assist",
+      "past": "assisted",
+      "pp": "assisted"
+    }
+  },
+  {
+    "en": "assume",
+    "ja": "仮定する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "assume",
+      "past": "assumed",
+      "pp": "assumed"
+    }
+  },
+  {
+    "en": "attain",
+    "ja": "達成する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "attain",
+      "past": "attained",
+      "pp": "attained"
+    }
+  },
+  {
+    "en": "attribute",
+    "ja": "〜のせいにする",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "attribute",
+      "past": "attributed",
+      "pp": "attributed"
+    }
+  },
+  {
+    "en": "capture",
+    "ja": "捉える",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "capture",
+      "past": "captured",
+      "pp": "captured"
+    }
+  },
+  {
+    "en": "celebrate",
+    "ja": "祝う",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "celebrate",
+      "past": "celebrated",
+      "pp": "celebrated"
+    }
+  },
+  {
+    "en": "commit",
+    "ja": "約束する/犯す",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "commit",
+      "past": "commited",
+      "pp": "commited"
+    }
+  },
+  {
+    "en": "communicate",
+    "ja": "伝える",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "communicate",
+      "past": "communicated",
+      "pp": "communicated"
+    }
+  },
+  {
+    "en": "compete",
+    "ja": "競争する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "compete",
+      "past": "competed",
+      "pp": "competed"
+    }
+  },
+  {
+    "en": "concentrate",
+    "ja": "集中する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "concentrate",
+      "past": "concentrated",
+      "pp": "concentrated"
+    }
+  },
+  {
+    "en": "contribute",
+    "ja": "貢献する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "contribute",
+      "past": "contributed",
+      "pp": "contributed"
+    }
+  },
+  {
+    "en": "convert",
+    "ja": "変換する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "convert",
+      "past": "converted",
+      "pp": "converted"
+    }
+  },
+  {
+    "en": "cope",
+    "ja": "対処する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "cope",
+      "past": "coped",
+      "pp": "coped"
+    }
+  },
+  {
+    "en": "criticize",
+    "ja": "批判する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "criticize",
+      "past": "criticized",
+      "pp": "criticized"
+    }
+  },
+  {
+    "en": "delay",
+    "ja": "遅らせる",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "delay",
+      "past": "delayed",
+      "pp": "delayed"
+    }
+  },
+  {
+    "en": "deserve",
+    "ja": "〜に値する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "deserve",
+      "past": "deserved",
+      "pp": "deserved"
+    }
+  },
+  {
+    "en": "determine",
+    "ja": "決定する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "determine",
+      "past": "determined",
+      "pp": "determined"
+    }
+  },
+  {
+    "en": "differ",
+    "ja": "異なる",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "differ",
+      "past": "differed",
+      "pp": "differed"
+    }
+  },
+  {
+    "en": "eliminate",
+    "ja": "排除する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "eliminate",
+      "past": "eliminated",
+      "pp": "eliminated"
+    }
+  },
+  {
+    "en": "employ",
+    "ja": "雇う",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "employ",
+      "past": "employed",
+      "pp": "employed"
+    }
+  },
+  {
+    "en": "encounter",
+    "ja": "遭遇する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "encounter",
+      "past": "encountered",
+      "pp": "encountered"
+    }
+  },
+  {
+    "en": "estimate",
+    "ja": "見積もる",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "estimate",
+      "past": "estimated",
+      "pp": "estimated"
+    }
+  },
+  {
+    "en": "establish",
+    "ja": "設立する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "establish",
+      "past": "established",
+      "pp": "established"
+    }
+  },
+  {
+    "en": "expose",
+    "ja": "さらす",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "expose",
+      "past": "exposed",
+      "pp": "exposed"
+    }
+  },
+  {
+    "en": "extend",
+    "ja": "延長する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "extend",
+      "past": "extended",
+      "pp": "extended"
+    }
+  },
+  {
+    "en": "feature",
+    "ja": "特徴づける",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "feature",
+      "past": "featured",
+      "pp": "featured"
+    }
+  },
+  {
+    "en": "focus",
+    "ja": "集中する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "focus",
+      "past": "focused",
+      "pp": "focused"
+    }
+  },
+  {
+    "en": "function",
+    "ja": "機能する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "function",
+      "past": "functioned",
+      "pp": "functioned"
+    }
+  },
+  {
+    "en": "generate",
+    "ja": "生み出す",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "generate",
+      "past": "generated",
+      "pp": "generated"
+    }
+  },
+  {
+    "en": "handle",
+    "ja": "扱う",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "handle",
+      "past": "handled",
+      "pp": "handled"
+    }
+  },
+  {
+    "en": "identify",
+    "ja": "特定する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "identify",
+      "past": "identified",
+      "pp": "identified"
+    }
+  },
+  {
+    "en": "ignore",
+    "ja": "無視する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "ignore",
+      "past": "ignored",
+      "pp": "ignored"
+    }
+  },
+  {
+    "en": "maintain",
+    "ja": "維持する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "maintain",
+      "past": "maintained",
+      "pp": "maintained"
+    }
+  },
+  {
+    "en": "observe",
+    "ja": "観察する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "observe",
+      "past": "observed",
+      "pp": "observed"
+    }
+  },
+  {
+    "en": "participate",
+    "ja": "参加する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "participate",
+      "past": "participated",
+      "pp": "participated"
+    }
+  },
+  {
+    "en": "persuade",
+    "ja": "説得する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "persuade",
+      "past": "persuaded",
+      "pp": "persuaded"
+    }
+  },
+  {
+    "en": "promote",
+    "ja": "促進する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "promote",
+      "past": "promoted",
+      "pp": "promoted"
+    }
+  },
+  {
+    "en": "recover",
+    "ja": "回復する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "recover",
+      "past": "recovered",
+      "pp": "recovered"
+    }
+  },
+  {
+    "en": "reveal",
+    "ja": "明らかにする",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "reveal",
+      "past": "revealed",
+      "pp": "revealed"
+    }
+  },
+  {
+    "en": "select",
+    "ja": "選ぶ",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "select",
+      "past": "selected",
+      "pp": "selected"
+    }
+  },
+  {
+    "en": "spread",
+    "ja": "広げる",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "spread",
+      "past": "spreaded",
+      "pp": "spreaded"
+    }
+  },
+  {
+    "en": "tend",
+    "ja": "傾向がある",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "tend",
+      "past": "tended",
+      "pp": "tended"
+    }
+  },
+  {
+    "en": "typical",
+    "ja": "典型的な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "aware",
+    "ja": "気づいて",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "likely",
+    "ja": "ありそうな",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "unlikely",
+    "ja": "ありそうにない",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "accurate",
+    "ja": "正確な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "false",
+    "ja": "誤った",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "formal",
+    "ja": "正式な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "informal",
+    "ja": "くだけた",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "major",
+    "ja": "主要な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "minor",
+    "ja": "小さな",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "rapid",
+    "ja": "急速な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "sufficient",
+    "ja": "十分な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "insufficient",
+    "ja": "不十分な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "resource",
+    "ja": "資源",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "material",
+    "ja": "材料",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "energy",
+    "ja": "エネルギー",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "traffic",
+    "ja": "交通",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "survey",
+    "ja": "調査",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "allocate",
+    "ja": "割り当てる",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "allocate",
+      "past": "allocated",
+      "pp": "allocated"
+    }
+  },
+  {
+    "en": "anticipate",
+    "ja": "予期する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "anticipate",
+      "past": "anticipated",
+      "pp": "anticipated"
+    }
+  },
+  {
+    "en": "assistance",
+    "ja": "援助",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "authority",
+    "ja": "権威/当局",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "capacity",
+    "ja": "容量/能力",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "category",
+    "ja": "分類",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "consequence",
+    "ja": "結果",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "context",
+    "ja": "文脈/状況",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "contrast",
+    "ja": "対比",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "convenient",
+    "ja": "便利な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "inconvenient",
+    "ja": "不便な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "conventional",
+    "ja": "従来の",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "creative",
+    "ja": "創造的な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "definite",
+    "ja": "明確な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "definitely",
+    "ja": "確かに",
+    "level": 2,
+    "series": "副詞"
+  },
+  {
+    "en": "eventually",
+    "ja": "最終的に",
+    "level": 2,
+    "series": "副詞"
+  },
+  {
+    "en": "frequently",
+    "ja": "頻繁に",
+    "level": 2,
+    "series": "副詞"
+  },
+  {
+    "en": "gradually",
+    "ja": "徐々に",
+    "level": 2,
+    "series": "副詞"
+  },
+  {
+    "en": "nearly",
+    "ja": "ほとんど",
+    "level": 2,
+    "series": "副詞"
+  },
+  {
+    "en": "slightly",
+    "ja": "わずかに",
+    "level": 2,
+    "series": "副詞"
+  },
+  {
+    "en": "accurately",
+    "ja": "正確に",
+    "level": 2,
+    "series": "副詞"
+  },
+  {
+    "en": "approximately",
+    "ja": "およそ",
+    "level": 2,
+    "series": "副詞"
+  },
+  {
+    "en": "otherwise",
+    "ja": "さもなければ",
+    "level": 2,
+    "series": "副詞"
+  },
+  {
+    "en": "therefore",
+    "ja": "それゆえ",
+    "level": 2,
+    "series": "副詞"
+  },
+  {
+    "en": "moreover",
+    "ja": "さらに",
+    "level": 2,
+    "series": "接続詞/副詞"
+  },
+  {
+    "en": "nevertheless",
+    "ja": "それにもかかわらず",
+    "level": 2,
+    "series": "接続詞/副詞"
+  },
+  {
+    "en": "conclude",
+    "ja": "結論づける",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "conclude",
+      "past": "concluded",
+      "pp": "concluded"
+    }
+  },
+  {
+    "en": "conduct",
+    "ja": "実施する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "conduct",
+      "past": "conducted",
+      "pp": "conducted"
+    }
+  },
+  {
+    "en": "confront",
+    "ja": "直面する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "confront",
+      "past": "confronted",
+      "pp": "confronted"
+    }
+  },
+  {
+    "en": "consist",
+    "ja": "成り立つ",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "consist",
+      "past": "consisted",
+      "pp": "consisted"
+    }
+  },
+  {
+    "en": "consult",
+    "ja": "相談する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "consult",
+      "past": "consulted",
+      "pp": "consulted"
+    }
+  },
+  {
+    "en": "convince",
+    "ja": "納得させる",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "convince",
+      "past": "convinced",
+      "pp": "convinced"
+    }
+  },
+  {
+    "en": "coordinate",
+    "ja": "調整する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "coordinate",
+      "past": "coordinated",
+      "pp": "coordinated"
+    }
+  },
+  {
+    "en": "define",
+    "ja": "定義する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "define",
+      "past": "defined",
+      "pp": "defined"
+    }
+  },
+  {
+    "en": "deny",
+    "ja": "否定する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "deny",
+      "past": "denied",
+      "pp": "denied"
+    }
+  },
+  {
+    "en": "detect",
+    "ja": "検出する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "detect",
+      "past": "detected",
+      "pp": "detected"
+    }
+  },
+  {
+    "en": "dominate",
+    "ja": "支配する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "dominate",
+      "past": "dominated",
+      "pp": "dominated"
+    }
+  },
+  {
+    "en": "earn",
+    "ja": "稼ぐ",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "earn",
+      "past": "earned",
+      "pp": "earned"
+    }
+  },
+  {
+    "en": "emerge",
+    "ja": "現れる",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "emerge",
+      "past": "emerged",
+      "pp": "emerged"
+    }
+  },
+  {
+    "en": "emphasize",
+    "ja": "強調する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "emphasize",
+      "past": "emphasized",
+      "pp": "emphasized"
+    }
+  },
+  {
+    "en": "ensure",
+    "ja": "確実にする",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "ensure",
+      "past": "ensured",
+      "pp": "ensured"
+    }
+  },
+  {
+    "en": "evaluate",
+    "ja": "評価する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "evaluate",
+      "past": "evaluated",
+      "pp": "evaluated"
+    }
+  },
+  {
+    "en": "exceed",
+    "ja": "超える",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "exceed",
+      "past": "exceeded",
+      "pp": "exceeded"
+    }
+  },
+  {
+    "en": "exclude",
+    "ja": "除外する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "exclude",
+      "past": "excluded",
+      "pp": "excluded"
+    }
+  },
+  {
+    "en": "illustrate",
+    "ja": "説明する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "illustrate",
+      "past": "illustrated",
+      "pp": "illustrated"
+    }
+  },
+  {
+    "en": "indicate",
+    "ja": "示す",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "indicate",
+      "past": "indicated",
+      "pp": "indicated"
+    }
+  },
+  {
+    "en": "interpret",
+    "ja": "解釈する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "interpret",
+      "past": "interpreted",
+      "pp": "interpreted"
+    }
+  },
+  {
+    "en": "involve",
+    "ja": "含む/関与させる",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "involve",
+      "past": "involved",
+      "pp": "involved"
+    }
+  },
+  {
+    "en": "justify",
+    "ja": "正当化する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "justify",
+      "past": "justified",
+      "pp": "justified"
+    }
+  },
+  {
+    "en": "link",
+    "ja": "結びつける",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "link",
+      "past": "linked",
+      "pp": "linked"
+    }
+  },
+  {
+    "en": "locate",
+    "ja": "位置する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "locate",
+      "past": "located",
+      "pp": "located"
+    }
+  },
+  {
+    "en": "modify",
+    "ja": "修正する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "modify",
+      "past": "modified",
+      "pp": "modified"
+    }
+  },
+  {
+    "en": "obtain",
+    "ja": "得る",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "obtain",
+      "past": "obtained",
+      "pp": "obtained"
+    }
+  },
+  {
+    "en": "permit",
+    "ja": "許可する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "permit",
+      "past": "permited",
+      "pp": "permited"
+    }
+  },
+  {
+    "en": "preserve",
+    "ja": "保存する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "preserve",
+      "past": "preserved",
+      "pp": "preserved"
+    }
+  },
+  {
+    "en": "pursue",
+    "ja": "追求する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "pursue",
+      "past": "pursued",
+      "pp": "pursued"
+    }
+  },
+  {
+    "en": "reflect",
+    "ja": "反映する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "reflect",
+      "past": "reflected",
+      "pp": "reflected"
+    }
+  },
+  {
+    "en": "reject",
+    "ja": "拒否する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "reject",
+      "past": "rejected",
+      "pp": "rejected"
+    }
+  },
+  {
+    "en": "release",
+    "ja": "解放する/公開する",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "release",
+      "past": "released",
+      "pp": "released"
+    }
+  },
+  {
+    "en": "rely",
+    "ja": "頼る",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "rely",
+      "past": "relied",
+      "pp": "relied"
+    }
+  },
+  {
+    "en": "remove",
+    "ja": "取り除く",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "remove",
+      "past": "removed",
+      "pp": "removed"
+    }
+  },
+  {
+    "en": "shift",
+    "ja": "移す",
+    "level": 2,
+    "series": "動詞",
+    "forms": {
+      "base": "shift",
+      "past": "shifted",
+      "pp": "shifted"
+    }
+  },
+  {
+    "en": "adjacent",
+    "ja": "隣接した",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "alternative",
+    "ja": "代替の",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "appropriate",
+    "ja": "適切な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "capable",
+    "ja": "能力がある",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "competitive",
+    "ja": "競争力のある",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "consistent",
+    "ja": "一貫した",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "critical",
+    "ja": "重大な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "domestic",
+    "ja": "国内の",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "external",
+    "ja": "外部の",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "internal",
+    "ja": "内部の",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "flexible",
+    "ja": "柔軟な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "inevitable",
+    "ja": "避けられない",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "initial",
+    "ja": "最初の",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "potential",
+    "ja": "潜在的な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "primary",
+    "ja": "主要な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "secondary",
+    "ja": "二次的な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "significant",
+    "ja": "重要な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "specific",
+    "ja": "特定の",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "ultimate",
+    "ja": "最終的な",
+    "level": 2,
+    "series": "形容詞"
+  },
+  {
+    "en": "assumption",
+    "ja": "仮定",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "condition",
+    "ja": "条件",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "conflict",
+    "ja": "衝突",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "detail",
+    "ja": "詳細",
+    "level": 2,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "international",
+    "ja": "国際的な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "law",
+    "ja": "法律",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "purpose",
+    "ja": "目的",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "objective",
+    "ja": "目的／目標",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "effect",
+    "ja": "効果",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "factor",
+    "ja": "要因",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "safety",
+    "ja": "安全",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "security",
+    "ja": "安全保障／セキュリティ",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "power",
+    "ja": "力／電力",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "nature",
+    "ja": "自然",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "pollution",
+    "ja": "汚染",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "climate",
+    "ja": "気候",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "recycle",
+    "ja": "再利用する",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "damage",
+    "ja": "損害／損なう",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "destroy",
+    "ja": "破壊する",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "operate",
+    "ja": "運用する／操作する",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "analyze",
+    "ja": "分析する",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "investigate",
+    "ja": "調査する",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "debate",
+    "ja": "討論する",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "claim",
+    "ja": "主張する",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "achieve",
+    "ja": "達成する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "achieve",
+      "past": "achieved",
+      "pp": "achieved"
+    }
+  },
+  {
+    "en": "view",
+    "ja": "見方",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "attitude",
+    "ja": "態度",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "behavior",
+    "ja": "行動",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "character",
+    "ja": "性格／特徴",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "structure",
+    "ja": "構造",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "pattern",
+    "ja": "パターン",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "trend",
+    "ja": "傾向",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "statistics",
+    "ja": "統計",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "experiment",
+    "ja": "実験",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "evidence",
+    "ja": "証拠",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "theory",
+    "ja": "理論",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "concept",
+    "ja": "概念",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "innovation",
+    "ja": "革新",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "invention",
+    "ja": "発明",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "discovery",
+    "ja": "発見",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "application",
+    "ja": "応用／申請",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "software",
+    "ja": "ソフトウェア",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "hardware",
+    "ja": "ハードウェア",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "network",
+    "ja": "ネットワーク",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "database",
+    "ja": "データベース",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "algorithm",
+    "ja": "アルゴリズム",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "artificial",
+    "ja": "人工の",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "intelligence",
+    "ja": "知能",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "machine",
+    "ja": "機械",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "robot",
+    "ja": "ロボット",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "management",
+    "ja": "経営／管理",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "organization",
+    "ja": "組織",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "business",
+    "ja": "事業／商売",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "service",
+    "ja": "サービス",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "product",
+    "ja": "製品",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "competition",
+    "ja": "競争",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "investment",
+    "ja": "投資",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "finance",
+    "ja": "金融",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "connection",
+    "ja": "接続／つながり",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "responsibility",
+    "ja": "責任",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "duty",
+    "ja": "義務",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "freedom",
+    "ja": "自由",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "justice",
+    "ja": "正義",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "equality",
+    "ja": "平等",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "citizen",
+    "ja": "市民",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "regulation",
+    "ja": "規制",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "health",
+    "ja": "健康",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "medicine",
+    "ja": "医療",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "disease",
+    "ja": "病気",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "stress",
+    "ja": "ストレス",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "mental",
+    "ja": "精神の",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "emotion",
+    "ja": "感情",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "confidence",
+    "ja": "自信",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "motivation",
+    "ja": "やる気",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "general",
+    "ja": "一般的な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "current",
+    "ja": "現在の",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "former",
+    "ja": "以前の",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "individual",
+    "ja": "個人",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "although",
+    "ja": "〜だけれども",
+    "level": 3,
+    "series": "接続詞/副詞"
+  },
+  {
+    "en": "instead",
+    "ja": "その代わりに",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "furthermore",
+    "ja": "さらに",
+    "level": 3,
+    "series": "接続詞/副詞"
+  },
+  {
+    "en": "according",
+    "ja": "〜によれば",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "certainly",
+    "ja": "確かに",
+    "level": 3,
+    "series": "副詞"
+  },
+  {
+    "en": "resolve",
+    "ja": "解決する",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "volunteer",
+    "ja": "ボランティアをする",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "inspect",
+    "ja": "検査する",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "repair",
+    "ja": "修理する",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "publish",
+    "ja": "出版する／公開する",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "ban",
+    "ja": "禁止する",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "react",
+    "ja": "反応する",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "represent",
+    "ja": "代表する",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "produce",
+    "ja": "生産する",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "transport",
+    "ja": "輸送する",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "calculate",
+    "ja": "計算する",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "translate",
+    "ja": "翻訳する",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "option",
+    "ja": "選択肢",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "priority",
+    "ja": "優先順位",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "emergency",
+    "ja": "緊急事態",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "disaster",
+    "ja": "災害",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "facility",
+    "ja": "施設",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "infrastructure",
+    "ja": "社会基盤",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "transportation",
+    "ja": "交通",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "agriculture",
+    "ja": "農業",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "manufacturing",
+    "ja": "製造業",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "distribution",
+    "ja": "流通",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "employment",
+    "ja": "雇用",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "unemployment",
+    "ja": "失業",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "income",
+    "ja": "収入",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "tax",
+    "ja": "税金",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "environmental",
+    "ja": "環境の",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "scientific",
+    "ja": "科学の",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "cultural",
+    "ja": "文化の",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "social",
+    "ja": "社会の",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "economic",
+    "ja": "経済の",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "political",
+    "ja": "政治の",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "psychology",
+    "ja": "心理学",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "biology",
+    "ja": "生物学",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "chemistry",
+    "ja": "化学",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "physics",
+    "ja": "物理",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "literature",
+    "ja": "文学",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "philosophy",
+    "ja": "哲学",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "expression",
+    "ja": "表現",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "impression",
+    "ja": "印象",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "identity",
+    "ja": "個性／身元",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "personality",
+    "ja": "人格",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "talent",
+    "ja": "才能",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "routine",
+    "ja": "日課",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "discipline",
+    "ja": "規律",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "reward",
+    "ja": "報酬",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "punishment",
+    "ja": "罰",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "impact",
+    "ja": "影響／衝撃",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "harm",
+    "ja": "害",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "cooperate",
+    "ja": "協力する",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "collaboration",
+    "ja": "協力",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "negotiate",
+    "ja": "交渉する",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "agreement",
+    "ja": "合意",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "appointment",
+    "ja": "予約／約束",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "deadline",
+    "ja": "締め切り",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "reliable",
+    "ja": "信頼できる",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "precise",
+    "ja": "精密な",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "productive",
+    "ja": "生産的な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "sustainable",
+    "ja": "持続可能な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "stable",
+    "ja": "安定した",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "unstable",
+    "ja": "不安定な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "demonstrate",
+    "ja": "実証する/示す",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "demonstrate",
+      "past": "demonstrated",
+      "pp": "demonstrated"
+    }
+  },
+  {
+    "en": "clarify",
+    "ja": "明確にする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "clarify",
+      "past": "clarified",
+      "pp": "clarified"
+    }
+  },
+  {
+    "en": "derive",
+    "ja": "導く",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "derive",
+      "past": "derived",
+      "pp": "derived"
+    }
+  },
+  {
+    "en": "implement",
+    "ja": "実装する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "implement",
+      "past": "implemented",
+      "pp": "implemented"
+    }
+  },
+  {
+    "en": "optimize",
+    "ja": "最適化する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "optimize",
+      "past": "optimized",
+      "pp": "optimized"
+    }
+  },
+  {
+    "en": "simulate",
+    "ja": "シミュレーションする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "simulate",
+      "past": "simulated",
+      "pp": "simulated"
+    }
+  },
+  {
+    "en": "summarize",
+    "ja": "要約する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "summarize",
+      "past": "summarized",
+      "pp": "summarized"
+    }
+  },
+  {
+    "en": "transform",
+    "ja": "変換する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "transform",
+      "past": "transformed",
+      "pp": "transformed"
+    }
+  },
+  {
+    "en": "utilize",
+    "ja": "活用する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "utilize",
+      "past": "utilized",
+      "pp": "utilized"
+    }
+  },
+  {
+    "en": "validate",
+    "ja": "検証する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "validate",
+      "past": "validated",
+      "pp": "validated"
+    }
+  },
+  {
+    "en": "approximate",
+    "ja": "近似する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "approximate",
+      "past": "approximated",
+      "pp": "approximated"
+    }
+  },
+  {
+    "en": "collapse",
+    "ja": "崩壊する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "collapse",
+      "past": "collapsed",
+      "pp": "collapsed"
+    }
+  },
+  {
+    "en": "compensate",
+    "ja": "補償する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "compensate",
+      "past": "compensated",
+      "pp": "compensated"
+    }
+  },
+  {
+    "en": "complicate",
+    "ja": "複雑化する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "complicate",
+      "past": "complicated",
+      "pp": "complicated"
+    }
+  },
+  {
+    "en": "configure",
+    "ja": "設定する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "configure",
+      "past": "configured",
+      "pp": "configured"
+    }
+  },
+  {
+    "en": "constrain",
+    "ja": "制約する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "constrain",
+      "past": "constrained",
+      "pp": "constrained"
+    }
+  },
+  {
+    "en": "correlate",
+    "ja": "相関する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "correlate",
+      "past": "correlated",
+      "pp": "correlated"
+    }
+  },
+  {
+    "en": "differentiate",
+    "ja": "区別する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "differentiate",
+      "past": "differentiated",
+      "pp": "differentiated"
+    }
+  },
+  {
+    "en": "facilitate",
+    "ja": "促進する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "facilitate",
+      "past": "facilitated",
+      "pp": "facilitated"
+    }
+  },
+  {
+    "en": "formulate",
+    "ja": "定式化する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "formulate",
+      "past": "formulated",
+      "pp": "formulated"
+    }
+  },
+  {
+    "en": "generalize",
+    "ja": "一般化する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "generalize",
+      "past": "generalized",
+      "pp": "generalized"
+    }
+  },
+  {
+    "en": "hypothesize",
+    "ja": "仮説を立てる",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "hypothesize",
+      "past": "hypothesized",
+      "pp": "hypothesized"
+    }
+  },
+  {
+    "en": "integrate",
+    "ja": "統合する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "integrate",
+      "past": "integrated",
+      "pp": "integrated"
+    }
+  },
+  {
+    "en": "maximize",
+    "ja": "最大化する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "maximize",
+      "past": "maximized",
+      "pp": "maximized"
+    }
+  },
+  {
+    "en": "minimize",
+    "ja": "最小化する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "minimize",
+      "past": "minimized",
+      "pp": "minimized"
+    }
+  },
+  {
+    "en": "monitor",
+    "ja": "監視する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "monitor",
+      "past": "monitored",
+      "pp": "monitored"
+    }
+  },
+  {
+    "en": "partition",
+    "ja": "分割する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "partition",
+      "past": "partitioned",
+      "pp": "partitioned"
+    }
+  },
+  {
+    "en": "prioritize",
+    "ja": "優先する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "prioritize",
+      "past": "prioritized",
+      "pp": "prioritized"
+    }
+  },
+  {
+    "en": "propose",
+    "ja": "提案する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "propose",
+      "past": "proposed",
+      "pp": "proposed"
+    }
+  },
+  {
+    "en": "refine",
+    "ja": "洗練する/改善する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "refine",
+      "past": "refined",
+      "pp": "refined"
+    }
+  },
+  {
+    "en": "regulate",
+    "ja": "規制する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "regulate",
+      "past": "regulated",
+      "pp": "regulated"
+    }
+  },
+  {
+    "en": "reinforce",
+    "ja": "強化する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "reinforce",
+      "past": "reinforced",
+      "pp": "reinforced"
+    }
+  },
+  {
+    "en": "restrict",
+    "ja": "制限する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "restrict",
+      "past": "restricted",
+      "pp": "restricted"
+    }
+  },
+  {
+    "en": "specify",
+    "ja": "明記する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "specify",
+      "past": "specified",
+      "pp": "specified"
+    }
+  },
+  {
+    "en": "stabilize",
+    "ja": "安定させる",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "stabilize",
+      "past": "stabilized",
+      "pp": "stabilized"
+    }
+  },
+  {
+    "en": "sustain",
+    "ja": "維持する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "sustain",
+      "past": "sustained",
+      "pp": "sustained"
+    }
+  },
+  {
+    "en": "theorize",
+    "ja": "理論化する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "theorize",
+      "past": "theorized",
+      "pp": "theorized"
+    }
+  },
+  {
+    "en": "underscore",
+    "ja": "強調する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "underscore",
+      "past": "underscored",
+      "pp": "underscored"
+    }
+  },
+  {
+    "en": "variance",
+    "ja": "分散",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "regression",
+    "ja": "回帰",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "classification",
+    "ja": "分類",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "probability",
+    "ja": "確率",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "parameter",
+    "ja": "パラメータ",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "constraint",
+    "ja": "制約",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "criterion",
+    "ja": "基準",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "framework",
+    "ja": "枠組み",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "hypothesis",
+    "ja": "仮説",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "implementation",
+    "ja": "実装",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "optimization",
+    "ja": "最適化",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "simulation",
+    "ja": "シミュレーション",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "architecture",
+    "ja": "設計/構造",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "benchmark",
+    "ja": "ベンチマーク",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "repository",
+    "ja": "リポジトリ",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "dependency",
+    "ja": "依存関係",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "compatibility",
+    "ja": "互換性",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "robustness",
+    "ja": "頑健性",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "scalability",
+    "ja": "拡張性",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "privacy",
+    "ja": "プライバシー",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "compliance",
+    "ja": "コンプライアンス",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "legislation",
+    "ja": "立法",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "sustainability",
+    "ja": "持続可能性",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "uncertainty",
+    "ja": "不確実性",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "approximation",
+    "ja": "近似",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "aggregation",
+    "ja": "集約",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "normalization",
+    "ja": "正規化",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "dimensionality",
+    "ja": "次元",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "interpretability",
+    "ja": "解釈可能性",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "explainability",
+    "ja": "説明可能性",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "accountability",
+    "ja": "説明責任",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "substantial",
+    "ja": "相当な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "contradictory",
+    "ja": "矛盾した",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "ambiguous",
+    "ja": "曖昧な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "rigorous",
+    "ja": "厳密な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "feasible",
+    "ja": "実現可能な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "preliminary",
+    "ja": "予備的な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "comprehensive",
+    "ja": "包括的な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "sophisticated",
+    "ja": "高度な/洗練された",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "whereas",
+    "ja": "一方で",
+    "level": 3,
+    "series": "接続詞"
+  },
+  {
+    "en": "consequently",
+    "ja": "その結果",
+    "level": 3,
+    "series": "副詞"
+  },
+  {
+    "en": "accelerate",
+    "ja": "加速させる",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "accelerate",
+      "past": "accelerated",
+      "pp": "accelerated"
+    }
+  },
+  {
+    "en": "accommodate",
+    "ja": "収容する/対応する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "accommodate",
+      "past": "accommodated",
+      "pp": "accommodated"
+    }
+  },
+  {
+    "en": "accumulate",
+    "ja": "蓄積する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "accumulate",
+      "past": "accumulated",
+      "pp": "accumulated"
+    }
+  },
+  {
+    "en": "administer",
+    "ja": "管理する/運営する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "administer",
+      "past": "administered",
+      "pp": "administered"
+    }
+  },
+  {
+    "en": "advocate",
+    "ja": "提唱する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "advocate",
+      "past": "advocated",
+      "pp": "advocated"
+    }
+  },
+  {
+    "en": "aggregate",
+    "ja": "集約する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "aggregate",
+      "past": "aggregated",
+      "pp": "aggregated"
+    }
+  },
+  {
+    "en": "articulate",
+    "ja": "明確に述べる",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "articulate",
+      "past": "articulated",
+      "pp": "articulated"
+    }
+  },
+  {
+    "en": "calibrate",
+    "ja": "較正する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "calibrate",
+      "past": "calibrated",
+      "pp": "calibrated"
+    }
+  },
+  {
+    "en": "categorize",
+    "ja": "分類する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "categorize",
+      "past": "categorized",
+      "pp": "categorized"
+    }
+  },
+  {
+    "en": "coherent",
+    "ja": "首尾一貫した",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "conservative",
+    "ja": "保守的な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "convergent",
+    "ja": "収束する",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "deterministic",
+    "ja": "決定論的な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "empirical",
+    "ja": "経験的な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "heterogeneous",
+    "ja": "異質な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "homogeneous",
+    "ja": "同質な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "incremental",
+    "ja": "漸進的な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "intrinsic",
+    "ja": "内在的な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "marginal",
+    "ja": "限界の",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "plausible",
+    "ja": "もっともらしい",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "stochastic",
+    "ja": "確率的な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "subjective",
+    "ja": "主観的な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "violate",
+    "ja": "違反する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "violate",
+      "past": "violated",
+      "pp": "violated"
+    }
+  },
+  {
+    "en": "mitigate",
+    "ja": "緩和する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "mitigate",
+      "past": "mitigated",
+      "pp": "mitigated"
+    }
+  },
+  {
+    "en": "normalize",
+    "ja": "正規化する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "normalize",
+      "past": "normalized",
+      "pp": "normalized"
+    }
+  },
+  {
+    "en": "parameterize",
+    "ja": "パラメータ化する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "parameterize",
+      "past": "parameterized",
+      "pp": "parameterized"
+    }
+  },
+  {
+    "en": "quantify",
+    "ja": "定量化する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "quantify",
+      "past": "quantified",
+      "pp": "quantified"
+    }
+  },
+  {
+    "en": "reconcile",
+    "ja": "整合させる",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "reconcile",
+      "past": "reconciled",
+      "pp": "reconciled"
+    }
+  },
+  {
+    "en": "authenticate",
+    "ja": "認証する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "authenticate",
+      "past": "authenticated",
+      "pp": "authenticated"
+    }
+  },
+  {
+    "en": "bias",
+    "ja": "偏り",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "calculation",
+    "ja": "計算",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "causality",
+    "ja": "因果関係",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "coefficient",
+    "ja": "係数",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "convergence",
+    "ja": "収束",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "dataset",
+    "ja": "データセット",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "diagnose",
+    "ja": "診断する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "diagnose",
+      "past": "diagnosed",
+      "pp": "diagnosed"
+    }
+  },
+  {
+    "en": "empower",
+    "ja": "力を与える",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "empower",
+      "past": "empowered",
+      "pp": "empowered"
+    }
+  },
+  {
+    "en": "enforce",
+    "ja": "施行する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "enforce",
+      "past": "enforced",
+      "pp": "enforced"
+    }
+  },
+  {
+    "en": "entropy",
+    "ja": "エントロピー",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "extrapolate",
+    "ja": "外挿する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "extrapolate",
+      "past": "extrapolated",
+      "pp": "extrapolated"
+    }
+  },
+  {
+    "en": "falsify",
+    "ja": "反証する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "falsify",
+      "past": "falsified",
+      "pp": "falsified"
+    }
+  },
+  {
+    "en": "generalization",
+    "ja": "汎化",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "heuristic",
+    "ja": "発見的手法",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "initialize",
+    "ja": "初期化する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "initialize",
+      "past": "initialized",
+      "pp": "initialized"
+    }
+  },
+  {
+    "en": "invariant",
+    "ja": "不変量",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "iterate",
+    "ja": "反復する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "iterate",
+      "past": "iterated",
+      "pp": "iterated"
+    }
+  },
+  {
+    "en": "likelihood",
+    "ja": "尤度",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "logarithm",
+    "ja": "対数",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "manifold",
+    "ja": "多様体",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "metric",
+    "ja": "指標",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "overfitting",
+    "ja": "過学習",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "pipeline",
+    "ja": "パイプライン",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "prior",
+    "ja": "事前分布",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "posterior",
+    "ja": "事後分布",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "prototype",
+    "ja": "試作品",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "pseudocode",
+    "ja": "疑似コード",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "replicate",
+    "ja": "再現する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "replicate",
+      "past": "replicated",
+      "pp": "replicated"
+    }
+  },
+  {
+    "en": "reproducibility",
+    "ja": "再現性",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "robust",
+    "ja": "頑健な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "sensitivity",
+    "ja": "感度",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "specificity",
+    "ja": "特異度",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "synthesize",
+    "ja": "合成する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "synthesize",
+      "past": "synthesized",
+      "pp": "synthesized"
+    }
+  },
+  {
+    "en": "trade-off",
+    "ja": "トレードオフ",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "vectorize",
+    "ja": "ベクトル化する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "vectorize",
+      "past": "vectorized",
+      "pp": "vectorized"
+    }
+  },
+  {
+    "en": "asymptotic",
+    "ja": "漸近的な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "Bayesian",
+    "ja": "ベイズの",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "causal",
+    "ja": "因果の",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "combinatorial",
+    "ja": "組合せ的な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "computational",
+    "ja": "計算の",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "concise",
+    "ja": "簡潔な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "decompose",
+    "ja": "分解する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "decompose",
+      "past": "decomposed",
+      "pp": "decomposed"
+    }
+  },
+  {
+    "en": "deduce",
+    "ja": "推論する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "deduce",
+      "past": "deduced",
+      "pp": "deduced"
+    }
+  },
+  {
+    "en": "discrete",
+    "ja": "離散的な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "empirically",
+    "ja": "実証的に",
+    "level": 3,
+    "series": "副詞"
+  },
+  {
+    "en": "enumerate",
+    "ja": "列挙する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "enumerate",
+      "past": "enumerated",
+      "pp": "enumerated"
+    }
+  },
+  {
+    "en": "equivalent",
+    "ja": "同等の",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "feasibility",
+    "ja": "実現可能性",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "gradient",
+    "ja": "勾配",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "inference",
+    "ja": "推論",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "instantiate",
+    "ja": "具現化する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "instantiate",
+      "past": "instantiated",
+      "pp": "instantiated"
+    }
+  },
+  {
+    "en": "kernel",
+    "ja": "カーネル",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "latent",
+    "ja": "潜在的な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "matrix",
+    "ja": "行列",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "monotonic",
+    "ja": "単調な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "multivariate",
+    "ja": "多変量の",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "objective function",
+    "ja": "目的関数",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "paradigm",
+    "ja": "枠組み/パラダイム",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "posteriori",
+    "ja": "事後的に",
+    "level": 3,
+    "series": "副詞"
+  },
+  {
+    "en": "pragmatic",
+    "ja": "実用的な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "premise",
+    "ja": "前提",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "regularization",
+    "ja": "正則化",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "residual",
+    "ja": "残差",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "sparse",
+    "ja": "疎な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "stationary",
+    "ja": "定常な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "sufficient condition",
+    "ja": "十分条件",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "necessary condition",
+    "ja": "必要条件",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "tight bound",
+    "ja": "鋭い上界/下界",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "unbiased",
+    "ja": "不偏な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "verify",
+    "ja": "検証する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "verify",
+      "past": "verified",
+      "pp": "verified"
+    }
+  },
+  {
+    "en": "asymmetry",
+    "ja": "非対称",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "bottleneck",
+    "ja": "ボトルネック",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "calibration",
+    "ja": "較正",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "confounding",
+    "ja": "交絡",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "covariance",
+    "ja": "共分散",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "derivative",
+    "ja": "導関数",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "dynamics",
+    "ja": "動力学",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "equilibrium",
+    "ja": "平衡",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "intractable",
+    "ja": "手に負えない",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "nonlinear",
+    "ja": "非線形の",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "notation",
+    "ja": "表記法",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "spectrum",
+    "ja": "スペクトル",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "stationarity",
+    "ja": "定常性",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "symmetric",
+    "ja": "対称な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "tensor",
+    "ja": "テンソル",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "asymptote",
+    "ja": "漸近線",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "convex",
+    "ja": "凸の",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "concave",
+    "ja": "凹の",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "differential",
+    "ja": "微分の",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "likelihood ratio",
+    "ja": "尤度比",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "regularizer",
+    "ja": "正則化項",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "convexity",
+    "ja": "凸性",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "concavity",
+    "ja": "凹性",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "asymptotically",
+    "ja": "漸近的に",
+    "level": 3,
+    "series": "副詞"
+  },
+  {
+    "en": "regularize",
+    "ja": "正則化する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "regularize",
+      "past": "regularized",
+      "pp": "regularized"
+    }
+  },
+  {
+    "en": "minimax",
+    "ja": "ミニマックス",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "ergodic",
+    "ja": "エルゴード的な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "regularity",
+    "ja": "正則性",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "singularity",
+    "ja": "特異点",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "nonstationary",
+    "ja": "非定常の",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "ergodicity",
+    "ja": "エルゴード性",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "inference engine",
+    "ja": "推論エンジン",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "backpropagation",
+    "ja": "誤差逆伝播",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "gradient descent",
+    "ja": "勾配降下法",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "hyperparameter",
+    "ja": "ハイパーパラメータ",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "cross-validation",
+    "ja": "交差検証",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "bootstrap",
+    "ja": "ブートストラップ",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "Monte Carlo",
+    "ja": "モンテカルロ法",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "Markov chain",
+    "ja": "マルコフ連鎖",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "stationary distribution",
+    "ja": "定常分布",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "posterior predictive",
+    "ja": "事後予測",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "confidence interval",
+    "ja": "信頼区間",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "p-value",
+    "ja": "p値",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "null hypothesis",
+    "ja": "帰無仮説",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "alternative hypothesis",
+    "ja": "対立仮説",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "effect size",
+    "ja": "効果量",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "power analysis",
+    "ja": "検出力分析",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "causal inference",
+    "ja": "因果推論",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "instrumental variable",
+    "ja": "操作変数",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "propensity score",
+    "ja": "傾向スコア",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "matching",
+    "ja": "マッチング",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "counterfactual",
+    "ja": "反事実",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "randomized",
+    "ja": "無作為化された",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "observational",
+    "ja": "観察的な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "confidently",
+    "ja": "自信をもって",
+    "level": 3,
+    "series": "副詞"
+  },
+  {
+    "en": "robustly",
+    "ja": "頑健に",
+    "level": 3,
+    "series": "副詞"
+  },
+  {
+    "en": "intractability",
+    "ja": "計算困難性",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "complexity theory",
+    "ja": "計算量理論",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "polynomial time",
+    "ja": "多項式時間",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "NP-hard",
+    "ja": "NP困難",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "heuristically",
+    "ja": "経験則的に",
+    "level": 3,
+    "series": "副詞"
+  },
+  {
+    "en": "approximate algorithm",
+    "ja": "近似アルゴリズム",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "greedy algorithm",
+    "ja": "貪欲法",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "dynamic programming",
+    "ja": "動的計画法",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "divide and conquer",
+    "ja": "分割統治",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "hash function",
+    "ja": "ハッシュ関数",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "encryption",
+    "ja": "暗号化",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "decryption",
+    "ja": "復号",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "authorize",
+    "ja": "認可する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "authorize",
+      "past": "authorized",
+      "pp": "authorized"
+    }
+  },
+  {
+    "en": "encrypt",
+    "ja": "暗号化する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "encrypt",
+      "past": "encrypted",
+      "pp": "encrypted"
+    }
+  },
+  {
+    "en": "decrypt",
+    "ja": "復号する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "decrypt",
+      "past": "decrypted",
+      "pp": "decrypted"
+    }
+  },
+  {
+    "en": "compress",
+    "ja": "圧縮する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "compress",
+      "past": "compressed",
+      "pp": "compressed"
+    }
+  },
+  {
+    "en": "decompress",
+    "ja": "伸長する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "decompress",
+      "past": "decompressed",
+      "pp": "decompressed"
+    }
+  },
+  {
+    "en": "serialize",
+    "ja": "直列化する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "serialize",
+      "past": "serialized",
+      "pp": "serialized"
+    }
+  },
+  {
+    "en": "deserialize",
+    "ja": "逆直列化する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "deserialize",
+      "past": "deserialized",
+      "pp": "deserialized"
+    }
+  },
+  {
+    "en": "parallelize",
+    "ja": "並列化する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "parallelize",
+      "past": "parallelized",
+      "pp": "parallelized"
+    }
+  },
+  {
+    "en": "modularize",
+    "ja": "モジュール化する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "modularize",
+      "past": "modularized",
+      "pp": "modularized"
+    }
+  },
+  {
+    "en": "containerize",
+    "ja": "コンテナ化する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "containerize",
+      "past": "containerized",
+      "pp": "containerized"
+    }
+  },
+  {
+    "en": "orchestrate",
+    "ja": "オーケストレーションする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "orchestrate",
+      "past": "orchestrated",
+      "pp": "orchestrated"
+    }
+  },
+  {
+    "en": "deploy",
+    "ja": "デプロイする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "deploy",
+      "past": "deployed",
+      "pp": "deployed"
+    }
+  },
+  {
+    "en": "rollback",
+    "ja": "ロールバックする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "rollback",
+      "past": "rollbacked",
+      "pp": "rollbacked"
+    }
+  },
+  {
+    "en": "profile",
+    "ja": "プロファイルする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "profile",
+      "past": "profiled",
+      "pp": "profiled"
+    }
+  },
+  {
+    "en": "instrument",
+    "ja": "計測する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "instrument",
+      "past": "instrumented",
+      "pp": "instrumented"
+    }
+  },
+  {
+    "en": "throttle",
+    "ja": "制限する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "throttle",
+      "past": "throttled",
+      "pp": "throttled"
+    }
+  },
+  {
+    "en": "cache",
+    "ja": "キャッシュする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "cache",
+      "past": "cached",
+      "pp": "cached"
+    }
+  },
+  {
+    "en": "invalidate",
+    "ja": "無効化する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "invalidate",
+      "past": "invalidated",
+      "pp": "invalidated"
+    }
+  },
+  {
+    "en": "synchronize",
+    "ja": "同期する",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "synchronize",
+      "past": "synchronized",
+      "pp": "synchronized"
+    }
+  },
+  {
+    "en": "asynchronous",
+    "ja": "非同期の",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "concurrent",
+    "ja": "並行の",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "idempotent",
+    "ja": "冪等な",
+    "level": 3,
+    "series": "形容詞"
+  },
+  {
+    "en": "determinism",
+    "ja": "決定性",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "non-determinism",
+    "ja": "非決定性",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "latency",
+    "ja": "遅延",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "throughput",
+    "ja": "スループット",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "bandwidth",
+    "ja": "帯域幅",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "availability",
+    "ja": "可用性",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "durability",
+    "ja": "耐久性",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "consistency",
+    "ja": "一貫性",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "partition tolerance",
+    "ja": "分断耐性",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "eventual consistency",
+    "ja": "結果整合性",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "transaction",
+    "ja": "トランザクション",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "isolation",
+    "ja": "分離性",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "atomicity",
+    "ja": "原子性",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "deadlock",
+    "ja": "デッドロック",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "livelock",
+    "ja": "ライブロック",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "starvation",
+    "ja": "飢餓状態",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "mutex",
+    "ja": "ミューテックス",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "semaphore",
+    "ja": "セマフォ",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "scheduler",
+    "ja": "スケジューラ",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "virtualization",
+    "ja": "仮想化",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "container",
+    "ja": "コンテナ",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "microservice",
+    "ja": "マイクロサービス",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "monolith",
+    "ja": "モノリス",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "observability",
+    "ja": "可観測性",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "telemetry",
+    "ja": "テレメトリ",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "tracing",
+    "ja": "トレーシング",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "logging",
+    "ja": "ログ記録",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "alerting",
+    "ja": "アラート通知",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "SLO",
+    "ja": "サービスレベル目標",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "SLA",
+    "ja": "サービスレベル合意",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "consolidate",
+    "ja": "consolidateする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "consolidate",
+      "past": "consolidated",
+      "pp": "consolidated"
+    }
+  },
+  {
+    "en": "disseminate",
+    "ja": "disseminateする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "disseminate",
+      "past": "disseminated",
+      "pp": "disseminated"
+    }
+  },
+  {
+    "en": "exemplify",
+    "ja": "exemplifyする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "exemplify",
+      "past": "exemplified",
+      "pp": "exemplified"
+    }
+  },
+  {
+    "en": "characterize",
+    "ja": "characterizeする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "characterize",
+      "past": "characterized",
+      "pp": "characterized"
+    }
+  },
+  {
+    "en": "contextualize",
+    "ja": "contextualizeする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "contextualize",
+      "past": "contextualized",
+      "pp": "contextualized"
+    }
+  },
+  {
+    "en": "conceptualize",
+    "ja": "conceptualizeする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "conceptualize",
+      "past": "conceptualized",
+      "pp": "conceptualized"
+    }
+  },
+  {
+    "en": "formalize",
+    "ja": "formalizeする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "formalize",
+      "past": "formalized",
+      "pp": "formalized"
+    }
+  },
+  {
+    "en": "operationalize",
+    "ja": "operationalizeする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "operationalize",
+      "past": "operationalized",
+      "pp": "operationalized"
+    }
+  },
+  {
+    "en": "harmonize",
+    "ja": "harmonizeする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "harmonize",
+      "past": "harmonized",
+      "pp": "harmonized"
+    }
+  },
+  {
+    "en": "standardize",
+    "ja": "standardizeする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "standardize",
+      "past": "standardized",
+      "pp": "standardized"
+    }
+  },
+  {
+    "en": "abstract",
+    "ja": "abstractする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "abstract",
+      "past": "abstracted",
+      "pp": "abstracted"
+    }
+  },
+  {
+    "en": "encapsulate",
+    "ja": "encapsulateする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "encapsulate",
+      "past": "encapsulated",
+      "pp": "encapsulated"
+    }
+  },
+  {
+    "en": "decouple",
+    "ja": "decoupleする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "decouple",
+      "past": "decoupled",
+      "pp": "decoupled"
+    }
+  },
+  {
+    "en": "corroborate",
+    "ja": "corroborateする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "corroborate",
+      "past": "corroborated",
+      "pp": "corroborated"
+    }
+  },
+  {
+    "en": "triangulate",
+    "ja": "triangulateする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "triangulate",
+      "past": "triangulated",
+      "pp": "triangulated"
+    }
+  },
+  {
+    "en": "interpolate",
+    "ja": "interpolateする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "interpolate",
+      "past": "interpolated",
+      "pp": "interpolated"
+    }
+  },
+  {
+    "en": "streamline",
+    "ja": "streamlineする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "streamline",
+      "past": "streamlined",
+      "pp": "streamlined"
+    }
+  },
+  {
+    "en": "automate",
+    "ja": "automateする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "automate",
+      "past": "automated",
+      "pp": "automated"
+    }
+  },
+  {
+    "en": "segregate",
+    "ja": "segregateする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "segregate",
+      "past": "segregated",
+      "pp": "segregated"
+    }
+  },
+  {
+    "en": "factorize",
+    "ja": "factorizeする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "factorize",
+      "past": "factorized",
+      "pp": "factorized"
+    }
+  },
+  {
+    "en": "diagonalize",
+    "ja": "diagonalizeする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "diagonalize",
+      "past": "diagonalized",
+      "pp": "diagonalized"
+    }
+  },
+  {
+    "en": "tokenize",
+    "ja": "tokenizeする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "tokenize",
+      "past": "tokenized",
+      "pp": "tokenized"
+    }
+  },
+  {
+    "en": "compile",
+    "ja": "compileする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "compile",
+      "past": "compiled",
+      "pp": "compiled"
+    }
+  },
+  {
+    "en": "transpile",
+    "ja": "transpileする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "transpile",
+      "past": "transpiled",
+      "pp": "transpiled"
+    }
+  },
+  {
+    "en": "debug",
+    "ja": "debugする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "debug",
+      "past": "debuged",
+      "pp": "debuged"
+    }
+  },
+  {
+    "en": "refactor",
+    "ja": "refactorする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "refactor",
+      "past": "refactored",
+      "pp": "refactored"
+    }
+  },
+  {
+    "en": "version",
+    "ja": "versionする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "version",
+      "past": "versioned",
+      "pp": "versioned"
+    }
+  },
+  {
+    "en": "package",
+    "ja": "packageする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "package",
+      "past": "packaged",
+      "pp": "packaged"
+    }
+  },
+  {
+    "en": "deprecate",
+    "ja": "deprecateする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "deprecate",
+      "past": "deprecated",
+      "pp": "deprecated"
+    }
+  },
+  {
+    "en": "migrate",
+    "ja": "migrateする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "migrate",
+      "past": "migrated",
+      "pp": "migrated"
+    }
+  },
+  {
+    "en": "audit",
+    "ja": "auditする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "audit",
+      "past": "audited",
+      "pp": "audited"
+    }
+  },
+  {
+    "en": "govern",
+    "ja": "governする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "govern",
+      "past": "governed",
+      "pp": "governed"
+    }
+  },
+  {
+    "en": "remediate",
+    "ja": "remediateする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "remediate",
+      "past": "remediated",
+      "pp": "remediated"
+    }
+  },
+  {
+    "en": "sanitize",
+    "ja": "sanitizeする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "sanitize",
+      "past": "sanitized",
+      "pp": "sanitized"
+    }
+  },
+  {
+    "en": "provision",
+    "ja": "provisionする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "provision",
+      "past": "provisioned",
+      "pp": "provisioned"
+    }
+  },
+  {
+    "en": "queue",
+    "ja": "queueする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "queue",
+      "past": "queued",
+      "pp": "queued"
+    }
+  },
+  {
+    "en": "shard",
+    "ja": "shardする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "shard",
+      "past": "sharded",
+      "pp": "sharded"
+    }
+  },
+  {
+    "en": "reindex",
+    "ja": "reindexする",
+    "level": 3,
+    "series": "動詞",
+    "forms": {
+      "base": "reindex",
+      "past": "reindexed",
+      "pp": "reindexed"
+    }
+  },
+  {
+    "en": "ontology",
+    "ja": "ontology",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "taxonomy",
+    "ja": "taxonomy",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "schema",
+    "ja": "schema",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "semantics",
+    "ja": "semantics",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "syntax",
+    "ja": "syntax",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "pragmatics",
+    "ja": "pragmatics",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "corpus",
+    "ja": "corpus",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "lexicon",
+    "ja": "lexicon",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "morphology",
+    "ja": "morphology",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "phonetics",
+    "ja": "phonetics",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "phonology",
+    "ja": "phonology",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "granularity",
+    "ja": "granularity",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "modularity",
+    "ja": "modularity",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "invariance",
+    "ja": "invariance",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "equivariance",
+    "ja": "equivariance",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "symmetry",
+    "ja": "symmetry",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "perplexity",
+    "ja": "perplexity",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "embedding",
+    "ja": "embedding",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "token",
+    "ja": "token",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "prompt",
+    "ja": "prompt",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "completion",
+    "ja": "completion",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "fine-tuning",
+    "ja": "fine-tuning",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "pretraining",
+    "ja": "pretraining",
+    "level": 3,
+    "series": "名詞/その他"
+  },
+  {
+    "en": "distillation",
+    "ja": "distillation",
+    "level": 3,
+    "series": "名詞/その他"
+  }
+]
